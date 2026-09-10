@@ -1,0 +1,49 @@
+name: Actualiser
+
+on:
+  schedule:
+    # 05h30 UTC, soit 07h30 a Paris en heure d'ete et 06h30 en hiver.
+    - cron: "30 5 * * *"
+  workflow_dispatch:        # bouton « Run workflow » dans l'onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualisation
+  cancel-in-progress: false
+
+jobs:
+  actualiser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer openpyxl (copie du classeur)
+        run: pip install --quiet openpyxl
+
+      - name: Relever les resultats, les matchs et les cotes
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python -m engine.build
+
+      - name: Regenerer la copie du classeur
+        run: python tools/classeur.py
+
+      - name: Publier
+        run: |
+          git config user.name "Actualisation automatique"
+          git config user.email "actions@github.com"
+          git add -A data docs classeur
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Actualisation du $(date -u +'%d/%m/%Y %H:%M') UTC"
+            git push
+          fi
