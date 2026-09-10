@@ -303,14 +303,6 @@
   "adj_att": 1,
   "adj_def": 1
  },
- "Athletic Bilbao": {
-  "league": "Championship",
-  "mp": 46,
-  "gf": 44,
-  "ga": 58,
-  "adj_att": 1,
-  "adj_def": 1
- },
  "Watford": {
   "league": "Championship",
   "mp": 46,
@@ -950,5 +942,13 @@
   "ELC": 2025,
   "BSA": 2025,
   "CLI": 2025
+ },
+ "Charlton": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 44,
+  "ga": 58,
+  "adj_att": 1,
+  "adj_def": 1
  }
 }
