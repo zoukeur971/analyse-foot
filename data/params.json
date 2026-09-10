@@ -10,9 +10,9 @@
  "divergence_max": 1.25,
  "correctif_buts": 1.0,
  "poids_marche": 0.5,
- "proba_min_selection": 0.70,
+ "proba_min_selection": 0.7,
  "edge_min_selection": 0.02,
- "cote_min_selection": 1.20,
+ "cote_min_selection": 1.2,
  "auto_calibration": true,
  "auto_poids_marche": false,
  "historique": []

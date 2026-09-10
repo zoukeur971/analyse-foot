@@ -1,0 +1,954 @@
+{
+ "Sittard": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 49,
+  "ga": 63,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Go Ahead": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 54,
+  "ga": 53,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "NEC": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 77,
+  "ga": 53,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Excelsior": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 43,
+  "ga": 56,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Feyenoord": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 70,
+  "ga": 44,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "NAC": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 35,
+  "ga": 58,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Heerenveen": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 57,
+  "ga": 53,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Volendam": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 35,
+  "ga": 55,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "PSV": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 101,
+  "ga": 45,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Sparta": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 40,
+  "ga": 62,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Zwolle": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 44,
+  "ga": 71,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Twente": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 59,
+  "ga": 40,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Ajax": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 62,
+  "ga": 41,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Telstar": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 49,
+  "ga": 55,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "AZ": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 58,
+  "ga": 51,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Groningen": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 49,
+  "ga": 45,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Utrecht": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 55,
+  "ga": 42,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Heracles": {
+  "league": "Eredivisie",
+  "mp": 34,
+  "gf": 35,
+  "ga": 85,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Casa Pia": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 31,
+  "ga": 57,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Sporting CP": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 89,
+  "ga": 24,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "CD Nacional": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 37,
+  "ga": 45,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Gil Vicente": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 47,
+  "ga": 38,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Arouca": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 47,
+  "ga": 64,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "AVS": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 27,
+  "ga": 67,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Famalicão": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 42,
+  "ga": 29,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Santa Clara": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 32,
+  "ga": 41,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Braga": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 64,
+  "ga": 36,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Tondela": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 27,
+  "ga": 55,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Moreirense": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 37,
+  "ga": 49,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Alverca": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 35,
+  "ga": 52,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Estoril Praia": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 54,
+  "ga": 57,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Amadora": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 38,
+  "ga": 56,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Porto": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 66,
+  "ga": 18,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Vitória SC": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 39,
+  "ga": 51,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "SL Benfica": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 74,
+  "ga": 25,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Rio Ave": {
+  "league": "Primeira Liga",
+  "mp": 34,
+  "gf": 35,
+  "ga": 57,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Birmingham": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 57,
+  "ga": 56,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Ipswich": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 80,
+  "ga": 47,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Athletic Bilbao": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 44,
+  "ga": 58,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Watford": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 53,
+  "ga": 65,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Coventry": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 97,
+  "ga": 45,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Hull City": {
+  "league": "Championship",
+  "mp": 49,
+  "gf": 73,
+  "ga": 66,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Southampton": {
+  "league": "Championship",
+  "mp": 48,
+  "gf": 84,
+  "ga": 57,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Wrexham": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 69,
+  "ga": 65,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Middlesbrough": {
+  "league": "Championship",
+  "mp": 49,
+  "gf": 73,
+  "ga": 50,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Swansea": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 57,
+  "ga": 59,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Norwich": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 63,
+  "ga": 56,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Millwall": {
+  "league": "Championship",
+  "mp": 48,
+  "gf": 64,
+  "ga": 51,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Oxford United": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 45,
+  "ga": 59,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Portsmouth": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 49,
+  "ga": 64,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "QPR": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 61,
+  "ga": 73,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Preston NE": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 55,
+  "ga": 62,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Stoke": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 51,
+  "ga": 56,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Derby County": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 67,
+  "ga": 59,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "West Brom": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 48,
+  "ga": 58,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Blackburn": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 42,
+  "ga": 56,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Sheffield Utd": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 66,
+  "ga": 66,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Bristol City": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 59,
+  "ga": 59,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Leicester City": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 58,
+  "ga": 68,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Sheffield Wed": {
+  "league": "Championship",
+  "mp": 46,
+  "gf": 29,
+  "ga": 89,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "São Paulo": {
+  "league": "Copa Libertadores",
+  "mp": 10,
+  "gf": 15,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Recife": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 28,
+  "ga": 75,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Cruzeiro": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 55,
+  "ga": 31,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Mirassol": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 63,
+  "ga": 39,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Grêmio": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 47,
+  "ga": 50,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Mineiro": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 43,
+  "ga": 44,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Fortaleza": {
+  "league": "Copa Libertadores",
+  "mp": 7,
+  "gf": 5,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Fluminense": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 50,
+  "ga": 39,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Juventude": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 35,
+  "ga": 69,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Vitória": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 35,
+  "ga": 52,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Flamengo": {
+  "league": "Copa Libertadores",
+  "mp": 13,
+  "gf": 17,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Internacional": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 12,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Palmeiras": {
+  "league": "Copa Libertadores",
+  "mp": 13,
+  "gf": 30,
+  "ga": 10,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Botafogo": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 9,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Vasco da Gama": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 55,
+  "ga": 60,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Santos": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 45,
+  "ga": 50,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Bahia": {
+  "league": "Copa Libertadores",
+  "mp": 10,
+  "gf": 10,
+  "ga": 8,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Corinthians": {
+  "league": "Copa Libertadores",
+  "mp": 4,
+  "gf": 6,
+  "ga": 6,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Bragantino": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 45,
+  "ga": 57,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Ceará": {
+  "league": "Brasileirao",
+  "mp": 38,
+  "gf": 34,
+  "ga": 40,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Monagas SC": {
+  "league": "Copa Libertadores",
+  "mp": 4,
+  "gf": 5,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Defensor": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 0,
+  "ga": 4,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Club Nacional": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 9,
+  "ga": 14,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Alianza Lima": {
+  "league": "Copa Libertadores",
+  "mp": 12,
+  "gf": 21,
+  "ga": 21,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "CD Blooming": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 7,
+  "ga": 8,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "El Nacional": {
+  "league": "Copa Libertadores",
+  "mp": 4,
+  "gf": 9,
+  "ga": 9,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Iquique": {
+  "league": "Copa Libertadores",
+  "mp": 4,
+  "gf": 7,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Santa Fe": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 4,
+  "ga": 5,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Boca Juniors": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 6,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "The Strongest": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 1,
+  "ga": 4,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Boston River": {
+  "league": "Copa Libertadores",
+  "mp": 4,
+  "gf": 2,
+  "ga": 2,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Nublense": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 1,
+  "ga": 2,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Barcelone": {
+  "league": "Copa Libertadores",
+  "mp": 10,
+  "gf": 9,
+  "ga": 10,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Universidad Central": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 3,
+  "ga": 4,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Cerro Porteño": {
+  "league": "Copa Libertadores",
+  "mp": 12,
+  "gf": 19,
+  "ga": 15,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Tolima": {
+  "league": "Copa Libertadores",
+  "mp": 2,
+  "gf": 0,
+  "ga": 2,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "FBC Melgar": {
+  "league": "Copa Libertadores",
+  "mp": 4,
+  "gf": 4,
+  "ga": 5,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Carabobo": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 2,
+  "ga": 13,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Estudiantes LP": {
+  "league": "Copa Libertadores",
+  "mp": 10,
+  "gf": 16,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Club Bolívar": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 12,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "CA Bucaramanga": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 6,
+  "ga": 10,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Colo-Colo": {
+  "league": "Copa Libertadores",
+  "mp": 5,
+  "gf": 5,
+  "ga": 12,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Racing Club": {
+  "league": "Copa Libertadores",
+  "mp": 12,
+  "gf": 19,
+  "ga": 6,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Independiente": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 8,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Libertad": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 8,
+  "ga": 9,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "San Antonio Bulo Bulo": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 5,
+  "ga": 15,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Olimpia": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 9,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Vélez": {
+  "league": "Copa Libertadores",
+  "mp": 10,
+  "gf": 13,
+  "ga": 6,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Peñarol": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 11,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Univ Chile": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 8,
+  "ga": 6,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Universitario": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 4,
+  "ga": 8,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "River Plate": {
+  "league": "Copa Libertadores",
+  "mp": 10,
+  "gf": 19,
+  "ga": 14,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Talleres": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 5,
+  "ga": 8,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "CDC Atlético": {
+  "league": "Copa Libertadores",
+  "mp": 8,
+  "gf": 11,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Córdoba SdE": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 7,
+  "ga": 7,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "LDU de Quito": {
+  "league": "Copa Libertadores",
+  "mp": 12,
+  "gf": 16,
+  "ga": 9,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Cristal": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 6,
+  "ga": 16,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "Táchira": {
+  "league": "Copa Libertadores",
+  "mp": 6,
+  "gf": 4,
+  "ga": 11,
+  "adj_att": 1,
+  "adj_def": 1
+ },
+ "_saison": 2025,
+ "_faits": {
+  "DED": 2025,
+  "PPL": 2025,
+  "ELC": 2025,
+  "BSA": 2025,
+  "CLI": 2025
+ }
+}
