@@ -1,0 +1,914 @@
+[
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Lyon",
+  "ext": "Auxerre",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Auxerre",
+  "ext": "Lyon",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Lyon",
+  "ext": "Auxerre",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Auxerre",
+  "ext": "Lyon",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Paris Saint-Germain",
+  "ext": "Monaco",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Monaco",
+  "ext": "Paris Saint-Germain",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Paris Saint-Germain",
+  "ext": "Monaco",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Monaco",
+  "ext": "Paris Saint-Germain",
+  "bd": 2,
+  "be": 4
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Lens",
+  "ext": "Lorient",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Lorient",
+  "ext": "Lens",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Le Havre",
+  "ext": "Brest",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Brest",
+  "ext": "Le Havre",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Le Havre",
+  "ext": "Brest",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Brest",
+  "ext": "Le Havre",
+  "bd": 1,
+  "be": 5
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Angers",
+  "ext": "Rennes",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Rennes",
+  "ext": "Angers",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Angers",
+  "ext": "Rennes",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Rennes",
+  "ext": "Angers",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Marseille",
+  "ext": "Paris FC",
+  "bd": 5,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Paris FC",
+  "ext": "Marseille",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Toulouse",
+  "ext": "Lille",
+  "bd": 0,
+  "be": 4
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Ligue 1",
+  "dom": "Lille",
+  "ext": "Toulouse",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Toulouse",
+  "ext": "Lille",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Ligue 1",
+  "dom": "Lille",
+  "ext": "Toulouse",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Arsenal",
+  "ext": "Chelsea",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Chelsea",
+  "ext": "Arsenal",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Everton",
+  "ext": "Manchester United",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Manchester United",
+  "ext": "Everton",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Newcastle",
+  "ext": "Bournemouth",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Bournemouth",
+  "ext": "Newcastle",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Nottingham Forest",
+  "ext": "Tottenham",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Tottenham",
+  "ext": "Nottingham Forest",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Fulham",
+  "ext": "Crystal Palace",
+  "bd": 6,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Crystal Palace",
+  "ext": "Fulham",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Brentford",
+  "ext": "Sunderland",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Sunderland",
+  "ext": "Brentford",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Leeds",
+  "ext": "Brighton",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Premier League",
+  "dom": "Brighton",
+  "ext": "Leeds",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Real Betis",
+  "ext": "Real Madrid",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Real Madrid",
+  "ext": "Real Betis",
+  "bd": 5,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Real Betis",
+  "ext": "Real Madrid",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Real Madrid",
+  "ext": "Real Betis",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Athletic Bilbao",
+  "ext": "Atletico Madrid",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Atletico Madrid",
+  "ext": "Athletic Bilbao",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Athletic Bilbao",
+  "ext": "Atletico Madrid",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Atletico Madrid",
+  "ext": "Athletic Bilbao",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Valence",
+  "ext": "Barcelone",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Barcelone",
+  "ext": "Valence",
+  "bd": 6,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Valence",
+  "ext": "Barcelone",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Barcelone",
+  "ext": "Valence",
+  "bd": 7,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Alaves",
+  "ext": "Osasuna",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Osasuna",
+  "ext": "Alaves",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Alaves",
+  "ext": "Osasuna",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Osasuna",
+  "ext": "Alaves",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Espanyol",
+  "ext": "Seville",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Seville",
+  "ext": "Espanyol",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Espanyol",
+  "ext": "Seville",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Seville",
+  "ext": "Espanyol",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Getafe",
+  "ext": "Celta Vigo",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Celta Vigo",
+  "ext": "Getafe",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Getafe",
+  "ext": "Celta Vigo",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Liga",
+  "dom": "Celta Vigo",
+  "ext": "Getafe",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Elche",
+  "ext": "Real Sociedad",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Liga",
+  "dom": "Real Sociedad",
+  "ext": "Elche",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Genoa",
+  "ext": "Como",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Como",
+  "ext": "Genoa",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Genoa",
+  "ext": "Como",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Como",
+  "ext": "Genoa",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Fiorentina",
+  "ext": "Torino",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Torino",
+  "ext": "Fiorentina",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Fiorentina",
+  "ext": "Torino",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Torino",
+  "ext": "Fiorentina",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Inter",
+  "ext": "Naples",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Naples",
+  "ext": "Inter",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Inter",
+  "ext": "Naples",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Naples",
+  "ext": "Inter",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Roma",
+  "ext": "Atalanta",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Atalanta",
+  "ext": "Roma",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Roma",
+  "ext": "Atalanta",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Atalanta",
+  "ext": "Roma",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Bologne",
+  "ext": "Sassuolo",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Sassuolo",
+  "ext": "Bologne",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Juventus",
+  "ext": "Milan",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Milan",
+  "ext": "Juventus",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Juventus",
+  "ext": "Milan",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Milan",
+  "ext": "Juventus",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Cagliari",
+  "ext": "Lecce",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Lecce",
+  "ext": "Cagliari",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Cagliari",
+  "ext": "Lecce",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Lecce",
+  "ext": "Cagliari",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Udinese",
+  "ext": "Lazio",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Serie A",
+  "dom": "Lazio",
+  "ext": "Udinese",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Udinese",
+  "ext": "Lazio",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Serie A",
+  "dom": "Lazio",
+  "ext": "Udinese",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Stuttgart",
+  "ext": "Cologne",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Cologne",
+  "ext": "Stuttgart",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Hoffenheim",
+  "ext": "Borussia Dortmund",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Borussia Dortmund",
+  "ext": "Hoffenheim",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Hoffenheim",
+  "ext": "Borussia Dortmund",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Borussia Dortmund",
+  "ext": "Hoffenheim",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Leverkusen",
+  "ext": "Union Berlin",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Union Berlin",
+  "ext": "Leverkusen",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Leverkusen",
+  "ext": "Union Berlin",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Union Berlin",
+  "ext": "Leverkusen",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Werder Breme",
+  "ext": "RB Leipzig",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "RB Leipzig",
+  "ext": "Werder Breme",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Werder Breme",
+  "ext": "RB Leipzig",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "RB Leipzig",
+  "ext": "Werder Breme",
+  "bd": 4,
+  "be": 2
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Hambourg",
+  "ext": "Mayence",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Mayence",
+  "ext": "Hambourg",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Eintracht Francfort",
+  "ext": "Augsbourg",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "2025-26",
+  "comp": "Bundesliga",
+  "dom": "Augsbourg",
+  "ext": "Eintracht Francfort",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Eintracht Francfort",
+  "ext": "Augsbourg",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "2024-25",
+  "comp": "Bundesliga",
+  "dom": "Augsbourg",
+  "ext": "Eintracht Francfort",
+  "bd": 0,
+  "be": 0
+ }
+]
