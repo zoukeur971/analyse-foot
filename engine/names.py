@@ -219,8 +219,13 @@ class Resolver:
                 def rang(b):
                     return (-len(b.split()), min(mots.index(m) for m in b.split()))
                 inclus.sort(key=rang)
+                gagnant = inclus[0]
+                # « Charlton Athletic » ne doit pas devenir « Athletic Bilbao » : un nom
+                # de base d'un seul mot n'est accepte que s'il ouvre le nom de l'API.
+                if len(gagnant.split()) == 1 and len(mots) > 1 and mots.index(gagnant) != 0:
+                    continue
                 if len(inclus) == 1 or rang(inclus[0]) < rang(inclus[1]):
-                    trouve = MANUAL.get(inclus[0]) or self.base.get(inclus[0])
+                    trouve = MANUAL.get(gagnant) or self.base.get(gagnant)
                     if trouve and slug(trouve) in self.base:
                         self.learned[slug(cand)] = trouve
                         return trouve, trouve
