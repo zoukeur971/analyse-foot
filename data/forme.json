@@ -312,9 +312,9 @@
   "ligue": "Liga"
  },
  "Athletic Bilbao": {
-  "mp": 10,
-  "gf": 12,
-  "ga": 12,
+  "mp": 4,
+  "gf": 6,
+  "ga": 5,
   "ligue": "Liga"
  },
  "Valence": {
@@ -707,10 +707,10 @@
   "ga": 11,
   "ligue": "Primeira Liga"
  },
- "Vitória SC": {
-  "mp": 5,
-  "gf": 3,
-  "ga": 5,
+ "Vitória": {
+  "mp": 31,
+  "gf": 28,
+  "ga": 42,
   "ligue": "Primeira Liga"
  },
  "Arouca": {
@@ -785,10 +785,10 @@
   "ga": 3,
   "ligue": "Primeira Liga"
  },
- "CD Nacional": {
-  "mp": 5,
-  "gf": 6,
-  "ga": 8,
+ "Club Nacional": {
+  "mp": 11,
+  "gf": 13,
+  "ga": 17,
   "ligue": "Primeira Liga"
  },
  "Wolverhampton": {
@@ -861,6 +861,12 @@
   "mp": 6,
   "gf": 8,
   "ga": 4,
+  "ligue": "Championship"
+ },
+ "Charlton": {
+  "mp": 6,
+  "gf": 6,
+  "ga": 7,
   "ligue": "Championship"
  },
  "Derby County": {
@@ -963,12 +969,6 @@
   "mp": 26,
   "gf": 38,
   "ga": 28,
-  "ligue": "Brasileirao"
- },
- "Vitória": {
-  "mp": 26,
-  "gf": 25,
-  "ga": 37,
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
@@ -1121,7 +1121,7 @@
   "ga": 6,
   "ligue": "Copa Libertadores"
  },
- "Nac. Potosí": {
+ "NAC": {
   "mp": 2,
   "gf": 1,
   "ga": 2,
@@ -1191,12 +1191,6 @@
   "mp": 8,
   "gf": 15,
   "ga": 14,
-  "ligue": "Copa Libertadores"
- },
- "Club Nacional": {
-  "mp": 6,
-  "gf": 7,
-  "ga": 9,
   "ligue": "Copa Libertadores"
  },
  "Lanús": {
