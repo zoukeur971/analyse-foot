@@ -1,0 +1,3 @@
+# Le moteur ne depend que de la bibliotheque standard.
+# openpyxl sert uniquement a regenerer la copie Excel dans classeur/.
+openpyxl>=3.1
