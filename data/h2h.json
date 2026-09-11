@@ -3294,5 +3294,69 @@
   "ext": "Galatasaray",
   "bd": 3,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Amadora",
+  "ext": "Braga",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "Estudiantes LP",
+  "ext": "Corinthians",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Fenerbahçe",
+  "ext": "Roma",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "PSV",
+  "ext": "Shaktar",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Bayern Munich",
+  "ext": "Bodø/Glimt",
+  "bd": 5,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Manchester United",
+  "ext": "Sabah FK",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Como",
+  "ext": "RB Leipzig",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Slavia Praha",
+  "ext": "Lens",
+  "bd": 2,
+  "be": 3
  }
 ]

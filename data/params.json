@@ -1,5 +1,5 @@
 {
- "avantage_terrain": 1.113,
+ "avantage_terrain": 1.0853,
  "rho": -0.02,
  "kelly": 0.25,
  "bankroll": 50,
@@ -8,12 +8,19 @@
  "poids_h2h": 0.08,
  "poids_forme": 0.25,
  "divergence_max": 1.25,
- "correctif_buts": 1.0,
+ "correctif_buts": 1.03,
  "poids_marche": 0.5,
  "proba_min_selection": 0.7,
  "edge_min_selection": 0.02,
  "cote_min_selection": 1.2,
  "auto_calibration": true,
  "auto_poids_marche": false,
- "historique": []
+ "historique": [
+  {
+   "date": "2026-09-11",
+   "n": 46,
+   "correctif_buts": 1.03,
+   "avantage_terrain": 1.0853
+  }
+ ]
 }

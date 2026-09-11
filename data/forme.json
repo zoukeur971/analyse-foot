@@ -720,9 +720,9 @@
   "ligue": "Primeira Liga"
  },
  "Amadora": {
-  "mp": 4,
-  "gf": 9,
-  "ga": 8,
+  "mp": 5,
+  "gf": 11,
+  "ga": 9,
   "ligue": "Primeira Liga"
  },
  "Sporting CP": {
@@ -750,9 +750,9 @@
   "ligue": "Primeira Liga"
  },
  "Braga": {
-  "mp": 3,
-  "gf": 5,
-  "ga": 3,
+  "mp": 4,
+  "gf": 6,
+  "ga": 5,
   "ligue": "Primeira Liga"
  },
  "Gil Vicente": {
@@ -1002,9 +1002,9 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 34,
-  "gf": 36,
-  "ga": 31,
+  "mp": 35,
+  "gf": 37,
+  "ga": 32,
   "ligue": "Brasileirao"
  },
  "Bahia": {
@@ -1200,9 +1200,9 @@
   "ligue": "Copa Libertadores"
  },
  "Estudiantes LP": {
-  "mp": 8,
-  "gf": 10,
-  "ga": 6,
+  "mp": 9,
+  "gf": 11,
+  "ga": 7,
   "ligue": "Copa Libertadores"
  },
  "Cusco": {
