@@ -3358,5 +3358,69 @@
   "ext": "Lens",
   "bd": 2,
   "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Rennes",
+  "ext": "Marseille",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Seville",
+  "ext": "Valence",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Venise",
+  "ext": "Fiorentina",
+  "bd": 2,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Union Berlin",
+  "ext": "Schalke 04",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "AZ",
+  "ext": "Willem II",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "West Ham",
+  "ext": "Wrexham",
+  "bd": 6,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Coritiba",
+  "ext": "Paranaense",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "Independiente",
+  "ext": "Flamengo",
+  "bd": 0,
+  "be": 2
  }
 ]

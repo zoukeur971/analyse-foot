@@ -1,8 +1,8 @@
 {
  "Marseille": {
-  "mp": 3,
+  "mp": 4,
   "gf": 6,
-  "ga": 5,
+  "ga": 6,
   "ligue": "Ligue 1"
  },
  "Strasbourg": {
@@ -96,8 +96,8 @@
   "ligue": "Ligue 1"
  },
  "Rennes": {
-  "mp": 3,
-  "gf": 7,
+  "mp": 4,
+  "gf": 8,
   "ga": 5,
   "ligue": "Ligue 1"
  },
@@ -240,8 +240,8 @@
   "ligue": "Liga"
  },
  "Seville": {
-  "mp": 4,
-  "gf": 7,
+  "mp": 5,
+  "gf": 8,
   "ga": 6,
   "ligue": "Liga"
  },
@@ -318,9 +318,9 @@
   "ligue": "Liga"
  },
  "Valence": {
-  "mp": 4,
+  "mp": 5,
   "gf": 1,
-  "ga": 9,
+  "ga": 10,
   "ligue": "Liga"
  },
  "Celta Vigo": {
@@ -408,9 +408,9 @@
   "ligue": "Serie A"
  },
  "Venise": {
-  "mp": 3,
-  "gf": 2,
-  "ga": 7,
+  "mp": 4,
+  "gf": 4,
+  "ga": 11,
   "ligue": "Serie A"
  },
  "Lecce": {
@@ -462,9 +462,9 @@
   "ligue": "Serie A"
  },
  "Fiorentina": {
-  "mp": 3,
-  "gf": 1,
-  "ga": 9,
+  "mp": 4,
+  "gf": 5,
+  "ga": 11,
   "ligue": "Serie A"
  },
  "Bayern Munich": {
@@ -504,9 +504,9 @@
   "ligue": "Bundesliga"
  },
  "Union Berlin": {
-  "mp": 2,
-  "gf": 3,
-  "ga": 7,
+  "mp": 3,
+  "gf": 4,
+  "ga": 10,
   "ligue": "Bundesliga"
  },
  "Eintracht Francfort": {
@@ -570,9 +570,9 @@
   "ligue": "Bundesliga"
  },
  "Schalke 04": {
-  "mp": 2,
-  "gf": 0,
-  "ga": 3,
+  "mp": 3,
+  "gf": 3,
+  "ga": 4,
   "ligue": "Bundesliga"
  },
  "Cambuur": {
@@ -606,9 +606,9 @@
   "ligue": "Eredivisie"
  },
  "Willem II": {
-  "mp": 4,
-  "gf": 4,
-  "ga": 13,
+  "mp": 5,
+  "gf": 5,
+  "ga": 14,
   "ligue": "Eredivisie"
  },
  "PSV": {
@@ -624,9 +624,9 @@
   "ligue": "Eredivisie"
  },
  "AZ": {
-  "mp": 5,
-  "gf": 16,
-  "ga": 5,
+  "mp": 6,
+  "gf": 17,
+  "ga": 6,
   "ligue": "Eredivisie"
  },
  "Den Haag": {
@@ -918,8 +918,8 @@
   "ligue": "Championship"
  },
  "West Ham": {
-  "mp": 6,
-  "gf": 14,
+  "mp": 7,
+  "gf": 20,
   "ga": 9,
   "ligue": "Championship"
  },
@@ -930,9 +930,9 @@
   "ligue": "Championship"
  },
  "Wrexham": {
-  "mp": 6,
+  "mp": 7,
   "gf": 7,
-  "ga": 5,
+  "ga": 11,
   "ligue": "Championship"
  },
  "Mineiro": {
@@ -948,9 +948,9 @@
   "ligue": "Brasileirao"
  },
  "Coritiba": {
-  "mp": 26,
-  "gf": 34,
-  "ga": 35,
+  "mp": 27,
+  "gf": 37,
+  "ga": 38,
   "ligue": "Brasileirao"
  },
  "Bragantino": {
@@ -966,9 +966,9 @@
   "ligue": "Brasileirao"
  },
  "Paranaense": {
-  "mp": 26,
-  "gf": 38,
-  "ga": 28,
+  "mp": 27,
+  "gf": 41,
+  "ga": 31,
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
@@ -1020,8 +1020,8 @@
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 33,
-  "gf": 65,
+  "mp": 34,
+  "gf": 67,
   "ga": 25,
   "ligue": "Brasileirao"
  },
@@ -1098,9 +1098,9 @@
   "ligue": "Copa Libertadores"
  },
  "Independiente": {
-  "mp": 16,
+  "mp": 17,
   "gf": 25,
-  "ga": 18,
+  "ga": 20,
   "ligue": "Copa Libertadores"
  },
  "Cristal": {
