@@ -12,9 +12,9 @@
   "ligue": "Ligue 1"
  },
  "Lens": {
-  "mp": 3,
-  "gf": 6,
-  "ga": 5,
+  "mp": 4,
+  "gf": 8,
+  "ga": 7,
   "ligue": "Ligue 1"
  },
  "Auxerre": {
@@ -24,21 +24,21 @@
   "ligue": "Ligue 1"
  },
  "Le Mans": {
-  "mp": 3,
-  "gf": 5,
-  "ga": 6,
+  "mp": 4,
+  "gf": 7,
+  "ga": 8,
   "ligue": "Ligue 1"
  },
  "Brest": {
-  "mp": 3,
+  "mp": 4,
   "gf": 6,
-  "ga": 5,
+  "ga": 6,
   "ligue": "Ligue 1"
  },
  "Troyes": {
-  "mp": 3,
+  "mp": 4,
   "gf": 4,
-  "ga": 7,
+  "ga": 9,
   "ligue": "Ligue 1"
  },
  "Paris FC": {
@@ -78,8 +78,8 @@
   "ligue": "Ligue 1"
  },
  "Lille": {
-  "mp": 3,
-  "gf": 5,
+  "mp": 4,
+  "gf": 7,
   "ga": 2,
   "ligue": "Ligue 1"
  },
@@ -102,8 +102,8 @@
   "ligue": "Ligue 1"
  },
  "Paris Saint-Germain": {
-  "mp": 3,
-  "gf": 5,
+  "mp": 4,
+  "gf": 6,
   "ga": 6,
   "ligue": "Ligue 1"
  },
@@ -114,9 +114,9 @@
   "ligue": "Premier League"
  },
  "Coventry": {
-  "mp": 3,
+  "mp": 4,
   "gf": 0,
-  "ga": 5,
+  "ga": 10,
   "ligue": "Premier League"
  },
  "Hull City": {
@@ -126,9 +126,9 @@
   "ligue": "Premier League"
  },
  "Manchester United": {
-  "mp": 3,
+  "mp": 4,
   "gf": 7,
-  "ga": 6,
+  "ga": 7,
   "ligue": "Premier League"
  },
  "Ipswich": {
@@ -180,8 +180,8 @@
   "ligue": "Premier League"
  },
  "Manchester City": {
-  "mp": 3,
-  "gf": 7,
+  "mp": 4,
+  "gf": 8,
   "ga": 2,
   "ligue": "Premier League"
  },
@@ -192,8 +192,8 @@
   "ligue": "Premier League"
  },
  "Brighton": {
-  "mp": 3,
-  "gf": 8,
+  "mp": 4,
+  "gf": 13,
   "ga": 5,
   "ligue": "Premier League"
  },
@@ -234,9 +234,9 @@
   "ligue": "Liga"
  },
  "Getafe": {
-  "mp": 4,
-  "gf": 2,
-  "ga": 5,
+  "mp": 5,
+  "gf": 3,
+  "ga": 6,
   "ligue": "Liga"
  },
  "Seville": {
@@ -270,15 +270,15 @@
   "ligue": "Liga"
  },
  "Levante": {
-  "mp": 4,
-  "gf": 5,
-  "ga": 5,
+  "mp": 5,
+  "gf": 7,
+  "ga": 9,
   "ligue": "Liga"
  },
  "Deportivo La Corogne": {
-  "mp": 4,
-  "gf": 8,
-  "ga": 5,
+  "mp": 5,
+  "gf": 9,
+  "ga": 6,
   "ligue": "Liga"
  },
  "Elche": {
@@ -288,15 +288,15 @@
   "ligue": "Liga"
  },
  "Atletico Madrid": {
-  "mp": 4,
-  "gf": 7,
+  "mp": 5,
+  "gf": 10,
   "ga": 6,
   "ligue": "Liga"
  },
  "Malaga": {
-  "mp": 4,
-  "gf": 1,
-  "ga": 7,
+  "mp": 5,
+  "gf": 2,
+  "ga": 8,
   "ligue": "Liga"
  },
  "Real Betis": {
@@ -306,9 +306,9 @@
   "ligue": "Liga"
  },
  "Real Sociedad": {
-  "mp": 5,
+  "mp": 6,
   "gf": 6,
-  "ga": 8,
+  "ga": 11,
   "ligue": "Liga"
  },
  "Athletic Bilbao": {
@@ -324,9 +324,9 @@
   "ligue": "Liga"
  },
  "Celta Vigo": {
-  "mp": 5,
-  "gf": 2,
-  "ga": 5,
+  "mp": 6,
+  "gf": 3,
+  "ga": 6,
   "ligue": "Liga"
  },
  "Real Madrid": {
@@ -336,9 +336,9 @@
   "ligue": "Liga"
  },
  "Barcelone": {
-  "mp": 14,
-  "gf": 27,
-  "ga": 20,
+  "mp": 15,
+  "gf": 31,
+  "ga": 22,
   "ligue": "Liga"
  },
  "Osasuna": {
@@ -366,9 +366,9 @@
   "ligue": "Serie A"
  },
  "Monza": {
-  "mp": 3,
-  "gf": 4,
-  "ga": 8,
+  "mp": 4,
+  "gf": 6,
+  "ga": 11,
   "ligue": "Serie A"
  },
  "Genoa": {
@@ -378,8 +378,8 @@
   "ligue": "Serie A"
  },
  "Naples": {
-  "mp": 3,
-  "gf": 5,
+  "mp": 4,
+  "gf": 6,
   "ga": 5,
   "ligue": "Serie A"
  },
@@ -402,9 +402,9 @@
   "ligue": "Serie A"
  },
  "Juventus": {
-  "mp": 3,
-  "gf": 4,
-  "ga": 1,
+  "mp": 4,
+  "gf": 6,
+  "ga": 4,
   "ligue": "Serie A"
  },
  "Venise": {
@@ -414,9 +414,9 @@
   "ligue": "Serie A"
  },
  "Lecce": {
-  "mp": 3,
-  "gf": 2,
-  "ga": 5,
+  "mp": 4,
+  "gf": 5,
+  "ga": 7,
   "ligue": "Serie A"
  },
  "Atalanta": {
@@ -426,9 +426,9 @@
   "ligue": "Serie A"
  },
  "Sassuolo": {
-  "mp": 3,
-  "gf": 5,
-  "ga": 5,
+  "mp": 4,
+  "gf": 8,
+  "ga": 7,
   "ligue": "Serie A"
  },
  "Torino": {
@@ -444,9 +444,9 @@
   "ligue": "Serie A"
  },
  "Bologne": {
-  "mp": 3,
+  "mp": 4,
   "gf": 2,
-  "ga": 4,
+  "ga": 5,
   "ligue": "Serie A"
  },
  "Lazio": {
@@ -468,9 +468,9 @@
   "ligue": "Serie A"
  },
  "Bayern Munich": {
-  "mp": 2,
-  "gf": 5,
-  "ga": 1,
+  "mp": 3,
+  "gf": 7,
+  "ga": 2,
   "ligue": "Bundesliga"
  },
  "Stuttgart": {
@@ -480,8 +480,8 @@
   "ligue": "Bundesliga"
  },
  "RB Leipzig": {
-  "mp": 2,
-  "gf": 4,
+  "mp": 3,
+  "gf": 9,
   "ga": 3,
   "ligue": "Bundesliga"
  },
@@ -516,9 +516,9 @@
   "ligue": "Bundesliga"
  },
  "Elversberg": {
-  "mp": 2,
-  "gf": 7,
-  "ga": 5,
+  "mp": 3,
+  "gf": 8,
+  "ga": 7,
   "ligue": "Bundesliga"
  },
  "Leverkusen": {
@@ -546,9 +546,9 @@
   "ligue": "Bundesliga"
  },
  "Hambourg": {
-  "mp": 2,
+  "mp": 3,
   "gf": 0,
-  "ga": 7,
+  "ga": 12,
   "ligue": "Bundesliga"
  },
  "Fribourg": {
@@ -582,9 +582,9 @@
   "ligue": "Eredivisie"
  },
  "Excelsior": {
-  "mp": 5,
-  "gf": 12,
-  "ga": 5,
+  "mp": 6,
+  "gf": 13,
+  "ga": 7,
   "ligue": "Eredivisie"
  },
  "NEC": {
@@ -594,7 +594,7 @@
   "ligue": "Eredivisie"
  },
  "Telstar": {
-  "mp": 5,
+  "mp": 6,
   "gf": 5,
   "ga": 11,
   "ligue": "Eredivisie"
@@ -612,9 +612,9 @@
   "ligue": "Eredivisie"
  },
  "PSV": {
-  "mp": 5,
-  "gf": 18,
-  "ga": 6,
+  "mp": 6,
+  "gf": 22,
+  "ga": 7,
   "ligue": "Eredivisie"
  },
  "Sittard": {
@@ -636,14 +636,14 @@
   "ligue": "Eredivisie"
  },
  "Sparta": {
-  "mp": 5,
-  "gf": 9,
-  "ga": 9,
+  "mp": 6,
+  "gf": 10,
+  "ga": 13,
   "ligue": "Eredivisie"
  },
  "Feyenoord": {
-  "mp": 5,
-  "gf": 13,
+  "mp": 6,
+  "gf": 20,
   "ga": 7,
   "ligue": "Eredivisie"
  },
@@ -654,15 +654,15 @@
   "ligue": "Eredivisie"
  },
  "Utrecht": {
-  "mp": 5,
-  "gf": 9,
-  "ga": 18,
+  "mp": 6,
+  "gf": 11,
+  "ga": 19,
   "ligue": "Eredivisie"
  },
  "Zwolle": {
-  "mp": 5,
+  "mp": 6,
   "gf": 6,
-  "ga": 10,
+  "ga": 17,
   "ligue": "Eredivisie"
  },
  "Ajax": {
@@ -672,7 +672,7 @@
   "ligue": "Eredivisie"
  },
  "Heerenveen": {
-  "mp": 5,
+  "mp": 6,
   "gf": 7,
   "ga": 9,
   "ligue": "Eredivisie"
@@ -690,9 +690,9 @@
   "ligue": "Primeira Liga"
  },
  "Famalicão": {
-  "mp": 5,
-  "gf": 4,
-  "ga": 6,
+  "mp": 6,
+  "gf": 5,
+  "ga": 7,
   "ligue": "Primeira Liga"
  },
  "Marítimo": {
@@ -708,15 +708,15 @@
   "ligue": "Primeira Liga"
  },
  "Vitória": {
-  "mp": 32,
-  "gf": 29,
-  "ga": 44,
+  "mp": 33,
+  "gf": 31,
+  "ga": 46,
   "ligue": "Primeira Liga"
  },
  "Arouca": {
-  "mp": 5,
-  "gf": 7,
-  "ga": 3,
+  "mp": 6,
+  "gf": 8,
+  "ga": 5,
   "ligue": "Primeira Liga"
  },
  "Amadora": {
@@ -726,9 +726,9 @@
   "ligue": "Primeira Liga"
  },
  "Sporting CP": {
-  "mp": 5,
-  "gf": 14,
-  "ga": 5,
+  "mp": 6,
+  "gf": 15,
+  "ga": 6,
   "ligue": "Primeira Liga"
  },
  "Porto": {
@@ -756,9 +756,9 @@
   "ligue": "Primeira Liga"
  },
  "Gil Vicente": {
-  "mp": 4,
-  "gf": 3,
-  "ga": 1,
+  "mp": 5,
+  "gf": 4,
+  "ga": 4,
   "ligue": "Primeira Liga"
  },
  "Rio Ave": {
@@ -768,9 +768,9 @@
   "ligue": "Primeira Liga"
  },
  "SL Benfica": {
-  "mp": 5,
-  "gf": 18,
-  "ga": 3,
+  "mp": 6,
+  "gf": 21,
+  "ga": 4,
   "ligue": "Primeira Liga"
  },
  "Acad. Viseu": {
@@ -780,9 +780,9 @@
   "ligue": "Primeira Liga"
  },
  "Santa Clara": {
-  "mp": 5,
-  "gf": 9,
-  "ga": 3,
+  "mp": 6,
+  "gf": 11,
+  "ga": 4,
   "ligue": "Primeira Liga"
  },
  "Club Nacional": {
@@ -792,8 +792,8 @@
   "ligue": "Primeira Liga"
  },
  "Wolverhampton": {
-  "mp": 5,
-  "gf": 13,
+  "mp": 6,
+  "gf": 14,
   "ga": 10,
   "ligue": "Championship"
  },
@@ -888,9 +888,9 @@
   "ligue": "Championship"
  },
  "Sheffield Utd": {
-  "mp": 6,
+  "mp": 7,
   "gf": 8,
-  "ga": 8,
+  "ga": 9,
   "ligue": "Championship"
  },
  "Birmingham": {
@@ -1002,9 +1002,9 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 35,
-  "gf": 37,
-  "ga": 32,
+  "mp": 36,
+  "gf": 38,
+  "ga": 34,
   "ligue": "Brasileirao"
  },
  "Bahia": {
@@ -1020,15 +1020,15 @@
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 34,
-  "gf": 67,
-  "ga": 25,
+  "mp": 35,
+  "gf": 69,
+  "ga": 26,
   "ligue": "Brasileirao"
  },
  "Mirassol": {
-  "mp": 34,
-  "gf": 41,
-  "ga": 50,
+  "mp": 35,
+  "gf": 43,
+  "ga": 52,
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
