@@ -3998,5 +3998,77 @@
   "ext": "Corinthians",
   "bd": 2,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Leeds",
+  "ext": "Newcastle",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Villarreal",
+  "ext": "Real Betis",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Como",
+  "ext": "Parme",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Torino",
+  "ext": "Roma",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Inter",
+  "ext": "Udinese",
+  "bd": 5,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Rio Ave",
+  "ext": "Amadora",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Moreirense",
+  "ext": "Marítimo",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Braga",
+  "ext": "Estoril Praia",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Bahia",
+  "ext": "Clube do Remo",
+  "bd": 2,
+  "be": 1
  }
 ]
