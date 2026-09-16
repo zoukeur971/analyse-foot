@@ -4070,5 +4070,61 @@
   "ext": "Clube do Remo",
   "bd": 2,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Rayo Vallecano",
+  "ext": "Espanyol",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Alaves",
+  "ext": "Valence",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Elche",
+  "ext": "Real Madrid",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Ajax",
+  "ext": "Willem II",
+  "bd": 5,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Middlesbrough",
+  "ext": "Millwall",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Bristol City",
+  "ext": "Lincoln City",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "Platense",
+  "ext": "Fluminense",
+  "bd": 2,
+  "be": 1
  }
 ]

@@ -228,9 +228,9 @@
   "ligue": "Premier League"
  },
  "Alaves": {
-  "mp": 5,
+  "mp": 6,
   "gf": 11,
-  "ga": 5,
+  "ga": 6,
   "ligue": "Liga"
  },
  "Getafe": {
@@ -246,9 +246,9 @@
   "ligue": "Liga"
  },
  "Rayo Vallecano": {
-  "mp": 5,
-  "gf": 8,
-  "ga": 14,
+  "mp": 6,
+  "gf": 10,
+  "ga": 15,
   "ligue": "Liga"
  },
  "Racing Santander": {
@@ -264,9 +264,9 @@
   "ligue": "Liga"
  },
  "Espanyol": {
-  "mp": 5,
-  "gf": 8,
-  "ga": 5,
+  "mp": 6,
+  "gf": 9,
+  "ga": 7,
   "ligue": "Liga"
  },
  "Levante": {
@@ -282,9 +282,9 @@
   "ligue": "Liga"
  },
  "Elche": {
-  "mp": 5,
-  "gf": 6,
-  "ga": 13,
+  "mp": 6,
+  "gf": 8,
+  "ga": 16,
   "ligue": "Liga"
  },
  "Atletico Madrid": {
@@ -318,8 +318,8 @@
   "ligue": "Liga"
  },
  "Valence": {
-  "mp": 5,
-  "gf": 1,
+  "mp": 6,
+  "gf": 2,
   "ga": 10,
   "ligue": "Liga"
  },
@@ -330,9 +330,9 @@
   "ligue": "Liga"
  },
  "Real Madrid": {
-  "mp": 5,
-  "gf": 14,
-  "ga": 4,
+  "mp": 6,
+  "gf": 17,
+  "ga": 6,
   "ligue": "Liga"
  },
  "Barcelone": {
@@ -606,9 +606,9 @@
   "ligue": "Eredivisie"
  },
  "Willem II": {
-  "mp": 5,
-  "gf": 5,
-  "ga": 14,
+  "mp": 6,
+  "gf": 6,
+  "ga": 19,
   "ligue": "Eredivisie"
  },
  "PSV": {
@@ -666,9 +666,9 @@
   "ligue": "Eredivisie"
  },
  "Ajax": {
-  "mp": 5,
-  "gf": 14,
-  "ga": 6,
+  "mp": 6,
+  "gf": 19,
+  "ga": 7,
   "ligue": "Eredivisie"
  },
  "Heerenveen": {
@@ -828,26 +828,26 @@
   "ligue": "Championship"
  },
  "Bristol City": {
-  "mp": 6,
+  "mp": 7,
   "gf": 10,
-  "ga": 11,
+  "ga": 12,
   "ligue": "Championship"
  },
  "Millwall": {
-  "mp": 6,
-  "gf": 11,
-  "ga": 11,
+  "mp": 7,
+  "gf": 13,
+  "ga": 13,
   "ligue": "Championship"
  },
  "Middlesbrough": {
-  "mp": 6,
-  "gf": 12,
-  "ga": 8,
+  "mp": 7,
+  "gf": 14,
+  "ga": 10,
   "ligue": "Championship"
  },
  "Lincoln City": {
-  "mp": 6,
-  "gf": 5,
+  "mp": 7,
+  "gf": 6,
   "ga": 6,
   "ligue": "Championship"
  },
@@ -978,9 +978,9 @@
   "ligue": "Brasileirao"
  },
  "Fluminense": {
-  "mp": 36,
-  "gf": 56,
-  "ga": 47,
+  "mp": 37,
+  "gf": 57,
+  "ga": 49,
   "ligue": "Brasileirao"
  },
  "Grêmio": {
@@ -1242,9 +1242,9 @@
   "ligue": "Copa Libertadores"
  },
  "Platense": {
-  "mp": 9,
-  "gf": 16,
-  "ga": 16,
+  "mp": 10,
+  "gf": 18,
+  "ga": 17,
   "ligue": "Copa Libertadores"
  },
  "Santa Fe": {
