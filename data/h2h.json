@@ -4126,5 +4126,37 @@
   "ext": "Fluminense",
   "bd": 2,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Deportivo La Corogne",
+  "ext": "Seville",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Atletico Madrid",
+  "ext": "Osasuna",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Barcelone",
+  "ext": "Racing Santander",
+  "bd": 7,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Botafogo",
+  "ext": "Grêmio",
+  "bd": 3,
+  "be": 2
  }
 ]

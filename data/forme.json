@@ -240,8 +240,8 @@
   "ligue": "Liga"
  },
  "Seville": {
-  "mp": 5,
-  "gf": 8,
+  "mp": 6,
+  "gf": 9,
   "ga": 6,
   "ligue": "Liga"
  },
@@ -252,9 +252,9 @@
   "ligue": "Liga"
  },
  "Racing Santander": {
-  "mp": 5,
-  "gf": 9,
-  "ga": 9,
+  "mp": 6,
+  "gf": 11,
+  "ga": 16,
   "ligue": "Liga"
  },
  "Villarreal": {
@@ -276,9 +276,9 @@
   "ligue": "Liga"
  },
  "Deportivo La Corogne": {
-  "mp": 5,
+  "mp": 6,
   "gf": 9,
-  "ga": 6,
+  "ga": 7,
   "ligue": "Liga"
  },
  "Elche": {
@@ -288,8 +288,8 @@
   "ligue": "Liga"
  },
  "Atletico Madrid": {
-  "mp": 5,
-  "gf": 10,
+  "mp": 6,
+  "gf": 14,
   "ga": 6,
   "ligue": "Liga"
  },
@@ -336,15 +336,15 @@
   "ligue": "Liga"
  },
  "Barcelone": {
-  "mp": 15,
-  "gf": 31,
-  "ga": 22,
+  "mp": 16,
+  "gf": 38,
+  "ga": 24,
   "ligue": "Liga"
  },
  "Osasuna": {
-  "mp": 5,
+  "mp": 6,
   "gf": 5,
-  "ga": 8,
+  "ga": 12,
   "ligue": "Liga"
  },
  "Udinese": {
@@ -984,9 +984,9 @@
   "ligue": "Brasileirao"
  },
  "Grêmio": {
-  "mp": 26,
-  "gf": 28,
-  "ga": 35,
+  "mp": 27,
+  "gf": 30,
+  "ga": 38,
   "ligue": "Brasileirao"
  },
  "Chapecoense": {
@@ -1038,9 +1038,9 @@
   "ligue": "Brasileirao"
  },
  "Botafogo": {
-  "mp": 30,
-  "gf": 41,
-  "ga": 44,
+  "mp": 31,
+  "gf": 44,
+  "ga": 46,
   "ligue": "Brasileirao"
  },
  "Cruzeiro": {
