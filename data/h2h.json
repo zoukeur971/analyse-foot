@@ -4158,5 +4158,37 @@
   "ext": "Grêmio",
   "bd": 3,
   "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Real Betis",
+  "ext": "Getafe",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Malaga",
+  "ext": "Villarreal",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "LDU de Quito",
+  "ext": "Palmeiras",
+  "bd": 6,
+  "be": 6
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "Corinthians",
+  "ext": "Estudiantes LP",
+  "bd": 0,
+  "be": 1
  }
 ]

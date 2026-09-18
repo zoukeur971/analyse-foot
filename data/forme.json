@@ -234,9 +234,9 @@
   "ligue": "Liga"
  },
  "Getafe": {
-  "mp": 5,
+  "mp": 6,
   "gf": 3,
-  "ga": 6,
+  "ga": 7,
   "ligue": "Liga"
  },
  "Seville": {
@@ -258,9 +258,9 @@
   "ligue": "Liga"
  },
  "Villarreal": {
-  "mp": 5,
-  "gf": 7,
-  "ga": 10,
+  "mp": 6,
+  "gf": 10,
+  "ga": 11,
   "ligue": "Liga"
  },
  "Espanyol": {
@@ -294,14 +294,14 @@
   "ligue": "Liga"
  },
  "Malaga": {
-  "mp": 5,
-  "gf": 2,
-  "ga": 8,
+  "mp": 6,
+  "gf": 3,
+  "ga": 11,
   "ligue": "Liga"
  },
  "Real Betis": {
-  "mp": 5,
-  "gf": 7,
+  "mp": 6,
+  "gf": 8,
   "ga": 6,
   "ligue": "Liga"
  },
@@ -942,9 +942,9 @@
   "ligue": "Brasileirao"
  },
  "Palmeiras": {
-  "mp": 36,
-  "gf": 60,
-  "ga": 27,
+  "mp": 37,
+  "gf": 66,
+  "ga": 33,
   "ligue": "Brasileirao"
  },
  "Coritiba": {
@@ -1002,9 +1002,9 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 36,
+  "mp": 37,
   "gf": 38,
-  "ga": 34,
+  "ga": 35,
   "ligue": "Brasileirao"
  },
  "Bahia": {
@@ -1164,9 +1164,9 @@
   "ligue": "Copa Libertadores"
  },
  "LDU de Quito": {
-  "mp": 9,
-  "gf": 14,
-  "ga": 11,
+  "mp": 10,
+  "gf": 20,
+  "ga": 17,
   "ligue": "Copa Libertadores"
  },
  "Univ Católica": {
@@ -1200,8 +1200,8 @@
   "ligue": "Copa Libertadores"
  },
  "Estudiantes LP": {
-  "mp": 9,
-  "gf": 11,
+  "mp": 10,
+  "gf": 12,
   "ga": 7,
   "ligue": "Copa Libertadores"
  },
