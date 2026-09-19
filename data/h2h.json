@@ -4190,5 +4190,69 @@
   "ext": "Estudiantes LP",
   "bd": 0,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Monaco",
+  "ext": "Lens",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Brentford",
+  "ext": "Chelsea",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Espanyol",
+  "ext": "Elche",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Monza",
+  "ext": "Sassuolo",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Bayern Munich",
+  "ext": "Union Berlin",
+  "bd": 7,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Groningen",
+  "ext": "Zwolle",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Bristol City",
+  "ext": "Watford",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "Flamengo",
+  "ext": "Independiente",
+  "bd": 1,
+  "be": 1
  }
 ]
