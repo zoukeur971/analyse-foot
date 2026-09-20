@@ -1,5 +1,5 @@
 {
- "avantage_terrain": 1.0034,
+ "avantage_terrain": 1.0334,
  "rho": -0.02,
  "kelly": 0.25,
  "bankroll": 50,
@@ -69,6 +69,12 @@
    "n": 158,
    "correctif_buts": 1.25,
    "avantage_terrain": 1.0034
+  },
+  {
+   "date": "2026-09-20",
+   "n": 203,
+   "correctif_buts": 1.25,
+   "avantage_terrain": 1.0334
   }
  ]
 }
