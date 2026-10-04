@@ -4798,5 +4798,25 @@
   "cote": 1.91,
   "vp": "Pas de valeur",
   "w": 0.5
+ },
+ {
+  "date": "2026-10-03",
+  "comp": "Brasileirao",
+  "dom": "Mineiro",
+  "ext": "Bragantino",
+  "bd": 1,
+  "be": 0,
+  "xd": 1.9071551866329173,
+  "xe": 1.32885781668369,
+  "p1": 0.5079012799529887,
+  "pn": 0.22699793598909931,
+  "p2": 0.2651007840579123,
+  "m1": null,
+  "mn": null,
+  "m2": null,
+  "pari": null,
+  "cote": null,
+  "vp": "Pas de cote",
+  "w": 0
  }
 ]
