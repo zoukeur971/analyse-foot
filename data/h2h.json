@@ -4918,5 +4918,53 @@
   "ext": "Bragantino",
   "bd": 1,
   "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Bragantino",
+  "ext": "Mirassol",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Internacional",
+  "ext": "Corinthians",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Clube do Remo",
+  "ext": "Grêmio",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Vitória",
+  "ext": "Chapecoense",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Botafogo",
+  "ext": "Vasco da Gama",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Cruzeiro",
+  "ext": "São Paulo",
+  "bd": 2,
+  "be": 0
  }
 ]

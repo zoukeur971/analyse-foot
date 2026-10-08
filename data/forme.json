@@ -708,8 +708,8 @@
   "ligue": "Primeira Liga"
  },
  "Vitória": {
-  "mp": 35,
-  "gf": 33,
+  "mp": 36,
+  "gf": 37,
   "ga": 50,
   "ligue": "Primeira Liga"
  },
@@ -954,15 +954,15 @@
   "ligue": "Brasileirao"
  },
  "Bragantino": {
-  "mp": 28,
-  "gf": 33,
-  "ga": 32,
+  "mp": 29,
+  "gf": 34,
+  "ga": 33,
   "ligue": "Brasileirao"
  },
  "Internacional": {
-  "mp": 28,
-  "gf": 30,
-  "ga": 36,
+  "mp": 29,
+  "gf": 32,
+  "ga": 37,
   "ligue": "Brasileirao"
  },
  "Paranaense": {
@@ -972,9 +972,9 @@
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
-  "mp": 28,
-  "gf": 32,
-  "ga": 47,
+  "mp": 29,
+  "gf": 33,
+  "ga": 48,
   "ligue": "Brasileirao"
  },
  "Fluminense": {
@@ -984,15 +984,15 @@
   "ligue": "Brasileirao"
  },
  "Grêmio": {
-  "mp": 28,
-  "gf": 30,
-  "ga": 38,
+  "mp": 29,
+  "gf": 31,
+  "ga": 39,
   "ligue": "Brasileirao"
  },
  "Chapecoense": {
-  "mp": 27,
+  "mp": 28,
   "gf": 29,
-  "ga": 53,
+  "ga": 57,
   "ligue": "Brasileirao"
  },
  "Santos": {
@@ -1002,9 +1002,9 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 38,
-  "gf": 39,
-  "ga": 38,
+  "mp": 39,
+  "gf": 40,
+  "ga": 40,
   "ligue": "Brasileirao"
  },
  "Bahia": {
@@ -1014,9 +1014,9 @@
   "ligue": "Brasileirao"
  },
  "São Paulo": {
-  "mp": 28,
+  "mp": 29,
   "gf": 33,
-  "ga": 32,
+  "ga": 34,
   "ligue": "Brasileirao"
  },
  "Flamengo": {
@@ -1026,26 +1026,26 @@
   "ligue": "Brasileirao"
  },
  "Mirassol": {
-  "mp": 36,
-  "gf": 45,
-  "ga": 52,
+  "mp": 37,
+  "gf": 46,
+  "ga": 53,
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
-  "mp": 27,
-  "gf": 34,
-  "ga": 41,
+  "mp": 28,
+  "gf": 36,
+  "ga": 42,
   "ligue": "Brasileirao"
  },
  "Botafogo": {
-  "mp": 32,
-  "gf": 44,
-  "ga": 48,
+  "mp": 33,
+  "gf": 45,
+  "ga": 50,
   "ligue": "Brasileirao"
  },
  "Cruzeiro": {
-  "mp": 36,
-  "gf": 52,
+  "mp": 37,
+  "gf": 54,
   "ga": 46,
   "ligue": "Brasileirao"
  },
