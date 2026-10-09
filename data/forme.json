@@ -936,21 +936,21 @@
   "ligue": "Championship"
  },
  "Mineiro": {
-  "mp": 28,
-  "gf": 37,
-  "ga": 32,
+  "mp": 29,
+  "gf": 39,
+  "ga": 34,
   "ligue": "Brasileirao"
  },
  "Palmeiras": {
-  "mp": 38,
-  "gf": 66,
+  "mp": 39,
+  "gf": 67,
   "ga": 33,
   "ligue": "Brasileirao"
  },
  "Coritiba": {
-  "mp": 28,
+  "mp": 29,
   "gf": 37,
-  "ga": 43,
+  "ga": 47,
   "ligue": "Brasileirao"
  },
  "Bragantino": {
@@ -966,9 +966,9 @@
   "ligue": "Brasileirao"
  },
  "Paranaense": {
-  "mp": 28,
-  "gf": 43,
-  "ga": 32,
+  "mp": 29,
+  "gf": 45,
+  "ga": 34,
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
@@ -978,8 +978,8 @@
   "ligue": "Brasileirao"
  },
  "Fluminense": {
-  "mp": 38,
-  "gf": 60,
+  "mp": 39,
+  "gf": 64,
   "ga": 50,
   "ligue": "Brasileirao"
  },
@@ -996,9 +996,9 @@
   "ligue": "Brasileirao"
  },
  "Santos": {
-  "mp": 28,
-  "gf": 43,
-  "ga": 41,
+  "mp": 29,
+  "gf": 45,
+  "ga": 43,
   "ligue": "Brasileirao"
  },
  "Corinthians": {
@@ -1008,9 +1008,9 @@
   "ligue": "Brasileirao"
  },
  "Bahia": {
-  "mp": 30,
+  "mp": 31,
   "gf": 48,
-  "ga": 41,
+  "ga": 42,
   "ligue": "Brasileirao"
  },
  "São Paulo": {
@@ -1020,9 +1020,9 @@
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 37,
-  "gf": 72,
-  "ga": 28,
+  "mp": 38,
+  "gf": 74,
+  "ga": 30,
   "ligue": "Brasileirao"
  },
  "Mirassol": {

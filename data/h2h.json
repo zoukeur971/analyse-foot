@@ -4966,5 +4966,37 @@
   "ext": "São Paulo",
   "bd": 2,
   "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Santos",
+  "ext": "Flamengo",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Paranaense",
+  "ext": "Mineiro",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Fluminense",
+  "ext": "Coritiba",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Palmeiras",
+  "ext": "Bahia",
+  "bd": 1,
+  "be": 0
  }
 ]
