@@ -4998,5 +4998,61 @@
   "ext": "Bahia",
   "bd": 1,
   "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lens",
+  "ext": "Lyon",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Malaga",
+  "ext": "Espanyol",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Borussia Dortmund",
+  "ext": "Werder Breme",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "PSV",
+  "ext": "Heerenveen",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Moreirense",
+  "ext": "Gil Vicente",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Braga",
+  "ext": "Sporting CP",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "West Ham",
+  "ext": "QPR",
+  "bd": 1,
+  "be": 1
  }
 ]
