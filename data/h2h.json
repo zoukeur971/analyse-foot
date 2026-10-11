@@ -5054,5 +5054,341 @@
   "ext": "QPR",
   "bd": 1,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lille",
+  "ext": "Le Havre",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Brest",
+  "ext": "Angers",
+  "bd": 5,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lorient",
+  "ext": "Paris FC",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Paris Saint-Germain",
+  "ext": "Le Mans",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Monaco",
+  "ext": "Toulouse",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Arsenal",
+  "ext": "Leeds",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Sunderland",
+  "ext": "Brighton",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Chelsea",
+  "ext": "Bournemouth",
+  "bd": 5,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Ipswich",
+  "ext": "Fulham",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Aston Villa",
+  "ext": "Brentford",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Manchester United",
+  "ext": "Tottenham",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Alaves",
+  "ext": "Atletico Madrid",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Barcelone",
+  "ext": "Getafe",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Real Madrid",
+  "ext": "Villarreal",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Genoa",
+  "ext": "Fiorentina",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Inter",
+  "ext": "Parme",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Naples",
+  "ext": "Frosinone",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Mayence",
+  "ext": "Leverkusen",
+  "bd": 3,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Paderborn",
+  "ext": "Stuttgart",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Union Berlin",
+  "ext": "Elversberg",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Hoffenheim",
+  "ext": "Hambourg",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Augsbourg",
+  "ext": "Bayern Munich",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "RB Leipzig",
+  "ext": "Eintracht Francfort",
+  "bd": 6,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Go Ahead",
+  "ext": "Sparta",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Feyenoord",
+  "ext": "AZ",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Sittard",
+  "ext": "Twente",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Ajax",
+  "ext": "NEC",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Marítimo",
+  "ext": "Porto",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Casa Pia",
+  "ext": "Santa Clara",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Acad. Viseu",
+  "ext": "Estoril Praia",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "West Brom",
+  "ext": "Birmingham",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Swansea",
+  "ext": "Norwich",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Charlton",
+  "ext": "Bristol City",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Sheffield Utd",
+  "ext": "Lincoln City",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Watford",
+  "ext": "Burnley",
+  "bd": 0,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Derby County",
+  "ext": "Wrexham",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Blackburn",
+  "ext": "Cardiff",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Bolton",
+  "ext": "Stoke",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Preston NE",
+  "ext": "Millwall",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Middlesbrough",
+  "ext": "Wolverhampton",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Vasco da Gama",
+  "ext": "Clube do Remo",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "São Paulo",
+  "ext": "Vitória",
+  "bd": 2,
+  "be": 1
  }
 ]
