@@ -5390,5 +5390,205 @@
   "ext": "Vitória",
   "bd": 2,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Nice",
+  "ext": "Strasbourg",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Rennes",
+  "ext": "Auxerre",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Troyes",
+  "ext": "Marseille",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Hull City",
+  "ext": "Everton",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Crystal Palace",
+  "ext": "Nottingham Forest",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Liverpool",
+  "ext": "Manchester City",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Elche",
+  "ext": "Celta Vigo",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Real Sociedad",
+  "ext": "Deportivo La Corogne",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Real Betis",
+  "ext": "Osasuna",
+  "bd": 5,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Racing Santander",
+  "ext": "Valence",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Cologne",
+  "ext": "Monchengladbach",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Fribourg",
+  "ext": "Schalke 04",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Utrecht",
+  "ext": "Willem II",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Zwolle",
+  "ext": "Cambuur",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Telstar",
+  "ext": "Den Haag",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Excelsior",
+  "ext": "Groningen",
+  "bd": 1,
+  "be": 5
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Rio Ave",
+  "ext": "Club Nacional",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "SL Benfica",
+  "ext": "Vitória",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Arouca",
+  "ext": "Amadora",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Southampton",
+  "ext": "Portsmouth",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Mineiro",
+  "ext": "Santos",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Flamengo",
+  "ext": "Fluminense",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Grêmio",
+  "ext": "Internacional",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Palmeiras",
+  "ext": "Corinthians",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Bahia",
+  "ext": "Mirassol",
+  "bd": 1,
+  "be": 0
  }
 ]
