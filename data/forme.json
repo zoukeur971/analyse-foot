@@ -1,14 +1,14 @@
 {
  "Marseille": {
-  "mp": 6,
-  "gf": 9,
+  "mp": 5,
+  "gf": 7,
   "ga": 8,
   "ligue": "Ligue 1"
  },
  "Strasbourg": {
-  "mp": 6,
-  "gf": 11,
-  "ga": 12,
+  "mp": 5,
+  "gf": 10,
+  "ga": 10,
   "ligue": "Ligue 1"
  },
  "Lens": {
@@ -18,9 +18,9 @@
   "ligue": "Ligue 1"
  },
  "Auxerre": {
-  "mp": 6,
-  "gf": 8,
-  "ga": 16,
+  "mp": 5,
+  "gf": 7,
+  "ga": 12,
   "ligue": "Ligue 1"
  },
  "Le Mans": {
@@ -36,9 +36,9 @@
   "ligue": "Ligue 1"
  },
  "Troyes": {
-  "mp": 6,
+  "mp": 5,
   "gf": 4,
-  "ga": 13,
+  "ga": 11,
   "ligue": "Ligue 1"
  },
  "Paris FC": {
@@ -48,9 +48,9 @@
   "ligue": "Ligue 1"
  },
  "Nice": {
-  "mp": 6,
-  "gf": 5,
-  "ga": 7,
+  "mp": 5,
+  "gf": 3,
+  "ga": 6,
   "ligue": "Ligue 1"
  },
  "Lorient": {
@@ -96,9 +96,9 @@
   "ligue": "Ligue 1"
  },
  "Rennes": {
-  "mp": 6,
-  "gf": 12,
-  "ga": 10,
+  "mp": 5,
+  "gf": 8,
+  "ga": 9,
   "ligue": "Ligue 1"
  },
  "Paris Saint-Germain": {
@@ -792,27 +792,27 @@
   "ligue": "Primeira Liga"
  },
  "Wolverhampton": {
-  "mp": 8,
-  "gf": 15,
-  "ga": 11,
+  "mp": 9,
+  "gf": 16,
+  "ga": 14,
   "ligue": "Championship"
  },
  "Blackburn": {
-  "mp": 9,
-  "gf": 14,
+  "mp": 10,
+  "gf": 15,
   "ga": 13,
   "ligue": "Championship"
  },
  "Bolton": {
-  "mp": 9,
-  "gf": 12,
-  "ga": 17,
+  "mp": 10,
+  "gf": 15,
+  "ga": 18,
   "ligue": "Championship"
  },
  "Preston NE": {
-  "mp": 9,
+  "mp": 10,
   "gf": 8,
-  "ga": 16,
+  "ga": 20,
   "ligue": "Championship"
  },
  "Norwich": {
@@ -822,27 +822,27 @@
   "ligue": "Championship"
  },
  "West Brom": {
-  "mp": 9,
-  "gf": 10,
-  "ga": 9,
+  "mp": 10,
+  "gf": 12,
+  "ga": 10,
   "ligue": "Championship"
  },
  "Bristol City": {
-  "mp": 9,
+  "mp": 10,
   "gf": 12,
-  "ga": 13,
+  "ga": 14,
   "ligue": "Championship"
  },
  "Millwall": {
-  "mp": 9,
+  "mp": 10,
   "gf": 16,
-  "ga": 15,
+  "ga": 16,
   "ligue": "Championship"
  },
  "Middlesbrough": {
-  "mp": 9,
-  "gf": 17,
-  "ga": 12,
+  "mp": 10,
+  "gf": 20,
+  "ga": 14,
   "ligue": "Championship"
  },
  "Lincoln City": {
@@ -852,21 +852,21 @@
   "ligue": "Championship"
  },
  "Stoke": {
-  "mp": 9,
-  "gf": 15,
-  "ga": 13,
+  "mp": 10,
+  "gf": 17,
+  "ga": 16,
   "ligue": "Championship"
  },
  "Swansea": {
-  "mp": 9,
-  "gf": 15,
+  "mp": 10,
+  "gf": 16,
   "ga": 7,
   "ligue": "Championship"
  },
  "Charlton": {
-  "mp": 9,
-  "gf": 8,
-  "ga": 11,
+  "mp": 10,
+  "gf": 10,
+  "ga": 13,
   "ligue": "Championship"
  },
  "Derby County": {
@@ -894,15 +894,15 @@
   "ligue": "Championship"
  },
  "Birmingham": {
-  "mp": 9,
-  "gf": 13,
+  "mp": 10,
+  "gf": 17,
   "ga": 11,
   "ligue": "Championship"
  },
  "Watford": {
-  "mp": 9,
-  "gf": 7,
-  "ga": 14,
+  "mp": 10,
+  "gf": 8,
+  "ga": 19,
   "ligue": "Championship"
  },
  "Southampton": {
@@ -912,9 +912,9 @@
   "ligue": "Championship"
  },
  "Burnley": {
-  "mp": 9,
-  "gf": 13,
-  "ga": 17,
+  "mp": 10,
+  "gf": 15,
+  "ga": 19,
   "ligue": "Championship"
  },
  "West Ham": {
@@ -924,15 +924,15 @@
   "ligue": "Championship"
  },
  "Cardiff": {
-  "mp": 9,
-  "gf": 11,
-  "ga": 14,
+  "mp": 10,
+  "gf": 16,
+  "ga": 15,
   "ligue": "Championship"
  },
  "Wrexham": {
-  "mp": 9,
-  "gf": 10,
-  "ga": 13,
+  "mp": 10,
+  "gf": 11,
+  "ga": 15,
   "ligue": "Championship"
  },
  "Mineiro": {
@@ -967,7 +967,7 @@
  },
  "Paranaense": {
   "mp": 30,
-  "gf": 48,
+  "gf": 49,
   "ga": 35,
   "ligue": "Brasileirao"
  },
@@ -992,7 +992,7 @@
  "Chapecoense": {
   "mp": 29,
   "gf": 30,
-  "ga": 60,
+  "ga": 61,
   "ligue": "Brasileirao"
  },
  "Santos": {

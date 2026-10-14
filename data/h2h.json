@@ -5694,5 +5694,141 @@
   "ext": "Cruzeiro",
   "bd": 4,
   "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Wolverhampton",
+  "ext": "Bolton",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Wrexham",
+  "ext": "West Brom",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Millwall",
+  "ext": "Swansea",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Cardiff",
+  "ext": "Watford",
+  "bd": 5,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Burnley",
+  "ext": "Charlton",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Bristol City",
+  "ext": "Blackburn",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Birmingham",
+  "ext": "Preston NE",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Stoke",
+  "ext": "Middlesbrough",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Lens",
+  "ext": "Sporting CP",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Sabah FK",
+  "ext": "Slavia Praha",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Inter",
+  "ext": "Club Brugge",
+  "bd": 3,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Galatasaray",
+  "ext": "Barcelone",
+  "bd": 1,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Atletico Madrid",
+  "ext": "Manchester United",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Arsenal",
+  "ext": "Lille",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Viking",
+  "ext": "Bayern Munich",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "RB Leipzig",
+  "ext": "PSV",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Villarreal",
+  "ext": "Naples",
+  "bd": 3,
+  "be": 1
  }
 ]
