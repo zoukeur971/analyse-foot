@@ -1,14 +1,14 @@
 {
  "Marseille": {
-  "mp": 5,
-  "gf": 7,
+  "mp": 6,
+  "gf": 9,
   "ga": 8,
   "ligue": "Ligue 1"
  },
  "Strasbourg": {
-  "mp": 5,
-  "gf": 10,
-  "ga": 10,
+  "mp": 6,
+  "gf": 11,
+  "ga": 12,
   "ligue": "Ligue 1"
  },
  "Lens": {
@@ -18,9 +18,9 @@
   "ligue": "Ligue 1"
  },
  "Auxerre": {
-  "mp": 5,
-  "gf": 7,
-  "ga": 12,
+  "mp": 6,
+  "gf": 8,
+  "ga": 16,
   "ligue": "Ligue 1"
  },
  "Le Mans": {
@@ -36,9 +36,9 @@
   "ligue": "Ligue 1"
  },
  "Troyes": {
-  "mp": 5,
+  "mp": 6,
   "gf": 4,
-  "ga": 11,
+  "ga": 13,
   "ligue": "Ligue 1"
  },
  "Paris FC": {
@@ -48,9 +48,9 @@
   "ligue": "Ligue 1"
  },
  "Nice": {
-  "mp": 5,
-  "gf": 3,
-  "ga": 6,
+  "mp": 6,
+  "gf": 5,
+  "ga": 7,
   "ligue": "Ligue 1"
  },
  "Lorient": {
@@ -96,9 +96,9 @@
   "ligue": "Ligue 1"
  },
  "Rennes": {
-  "mp": 5,
-  "gf": 8,
-  "ga": 9,
+  "mp": 6,
+  "gf": 12,
+  "ga": 10,
   "ligue": "Ligue 1"
  },
  "Paris Saint-Germain": {
@@ -708,9 +708,9 @@
   "ligue": "Primeira Liga"
  },
  "Vitória": {
-  "mp": 38,
-  "gf": 38,
-  "ga": 54,
+  "mp": 37,
+  "gf": 37,
+  "ga": 52,
   "ligue": "Primeira Liga"
  },
  "Arouca": {
@@ -816,9 +816,9 @@
   "ligue": "Championship"
  },
  "Norwich": {
-  "mp": 9,
+  "mp": 10,
   "gf": 17,
-  "ga": 19,
+  "ga": 20,
   "ligue": "Championship"
  },
  "West Brom": {
@@ -846,9 +846,9 @@
   "ligue": "Championship"
  },
  "Lincoln City": {
-  "mp": 9,
+  "mp": 10,
   "gf": 7,
-  "ga": 11,
+  "ga": 17,
   "ligue": "Championship"
  },
  "Stoke": {
@@ -870,27 +870,27 @@
   "ligue": "Championship"
  },
  "Derby County": {
-  "mp": 9,
-  "gf": 8,
-  "ga": 15,
+  "mp": 10,
+  "gf": 9,
+  "ga": 19,
   "ligue": "Championship"
  },
  "Portsmouth": {
-  "mp": 8,
-  "gf": 9,
-  "ga": 11,
+  "mp": 9,
+  "gf": 12,
+  "ga": 13,
   "ligue": "Championship"
  },
  "QPR": {
-  "mp": 9,
-  "gf": 11,
-  "ga": 8,
+  "mp": 10,
+  "gf": 15,
+  "ga": 9,
   "ligue": "Championship"
  },
  "Sheffield Utd": {
-  "mp": 9,
-  "gf": 12,
-  "ga": 11,
+  "mp": 10,
+  "gf": 14,
+  "ga": 14,
   "ligue": "Championship"
  },
  "Birmingham": {
@@ -906,8 +906,8 @@
   "ligue": "Championship"
  },
  "Southampton": {
-  "mp": 9,
-  "gf": 20,
+  "mp": 10,
+  "gf": 21,
   "ga": 10,
   "ligue": "Championship"
  },
@@ -918,8 +918,8 @@
   "ligue": "Championship"
  },
  "West Ham": {
-  "mp": 9,
-  "gf": 23,
+  "mp": 10,
+  "gf": 29,
   "ga": 12,
   "ligue": "Championship"
  },
@@ -936,39 +936,39 @@
   "ligue": "Championship"
  },
  "Mineiro": {
-  "mp": 30,
-  "gf": 41,
-  "ga": 35,
-  "ligue": "Brasileirao"
- },
- "Palmeiras": {
-  "mp": 40,
-  "gf": 71,
+  "mp": 29,
+  "gf": 39,
   "ga": 34,
   "ligue": "Brasileirao"
  },
+ "Palmeiras": {
+  "mp": 39,
+  "gf": 67,
+  "ga": 33,
+  "ligue": "Brasileirao"
+ },
  "Coritiba": {
-  "mp": 30,
-  "gf": 38,
-  "ga": 48,
+  "mp": 29,
+  "gf": 37,
+  "ga": 47,
   "ligue": "Brasileirao"
  },
  "Bragantino": {
-  "mp": 30,
-  "gf": 38,
-  "ga": 35,
+  "mp": 29,
+  "gf": 34,
+  "ga": 33,
   "ligue": "Brasileirao"
  },
  "Internacional": {
-  "mp": 30,
-  "gf": 33,
-  "ga": 38,
+  "mp": 29,
+  "gf": 32,
+  "ga": 37,
   "ligue": "Brasileirao"
  },
  "Paranaense": {
-  "mp": 30,
-  "gf": 49,
-  "ga": 35,
+  "mp": 29,
+  "gf": 45,
+  "ga": 34,
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
@@ -978,57 +978,57 @@
   "ligue": "Brasileirao"
  },
  "Fluminense": {
-  "mp": 40,
+  "mp": 39,
   "gf": 64,
-  "ga": 51,
+  "ga": 50,
   "ligue": "Brasileirao"
  },
  "Grêmio": {
-  "mp": 30,
-  "gf": 32,
-  "ga": 40,
+  "mp": 29,
+  "gf": 31,
+  "ga": 39,
   "ligue": "Brasileirao"
  },
  "Chapecoense": {
-  "mp": 29,
-  "gf": 30,
-  "ga": 61,
+  "mp": 28,
+  "gf": 29,
+  "ga": 57,
   "ligue": "Brasileirao"
  },
  "Santos": {
-  "mp": 30,
-  "gf": 46,
-  "ga": 45,
+  "mp": 29,
+  "gf": 45,
+  "ga": 43,
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 40,
-  "gf": 41,
-  "ga": 44,
+  "mp": 39,
+  "gf": 40,
+  "ga": 40,
   "ligue": "Brasileirao"
  },
  "Bahia": {
-  "mp": 32,
-  "gf": 49,
+  "mp": 31,
+  "gf": 48,
   "ga": 42,
   "ligue": "Brasileirao"
  },
  "São Paulo": {
-  "mp": 30,
-  "gf": 35,
-  "ga": 35,
+  "mp": 29,
+  "gf": 33,
+  "ga": 34,
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 39,
-  "gf": 75,
+  "mp": 38,
+  "gf": 74,
   "ga": 30,
   "ligue": "Brasileirao"
  },
  "Mirassol": {
-  "mp": 38,
+  "mp": 37,
   "gf": 46,
-  "ga": 54,
+  "ga": 53,
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
@@ -1038,15 +1038,15 @@
   "ligue": "Brasileirao"
  },
  "Botafogo": {
-  "mp": 34,
-  "gf": 46,
-  "ga": 51,
+  "mp": 33,
+  "gf": 45,
+  "ga": 50,
   "ligue": "Brasileirao"
  },
  "Cruzeiro": {
-  "mp": 38,
-  "gf": 56,
-  "ga": 50,
+  "mp": 37,
+  "gf": 54,
+  "ga": 46,
   "ligue": "Brasileirao"
  },
  "The Strongest": {

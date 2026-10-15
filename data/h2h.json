@@ -5830,5 +5830,109 @@
   "ext": "Naples",
   "bd": 3,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Portsmouth",
+  "ext": "Sheffield Utd",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Norwich",
+  "ext": "Southampton",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "QPR",
+  "ext": "Derby County",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Lincoln City",
+  "ext": "West Ham",
+  "bd": 0,
+  "be": 6
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "LASK",
+  "ext": "Liverpool",
+  "bd": 3,
+  "be": 6
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Feyenoord",
+  "ext": "Como",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Roma",
+  "ext": "Real Madrid",
+  "bd": 3,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Manchester City",
+  "ext": "Paris Saint-Germain",
+  "bd": 2,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Bodø/Glimt",
+  "ext": "Borussia Dortmund",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Aston Villa",
+  "ext": "Fenerbahçe",
+  "bd": 6,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Real Betis",
+  "ext": "Porto",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Shaktar",
+  "ext": "PAE AEK",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Sl. Bratislava",
+  "ext": "Stuttgart",
+  "bd": 0,
+  "be": 3
  }
 ]
