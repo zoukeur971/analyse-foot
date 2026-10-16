@@ -7178,5 +7178,25 @@
   "cote": 3.55,
   "vp": "Ecart suspect",
   "w": 0.5
+ },
+ {
+  "date": "2026-10-15",
+  "comp": "Copa Libertadores",
+  "dom": "Fluminense",
+  "ext": "Palmeiras",
+  "bd": 1,
+  "be": 2,
+  "xd": 1.0445813079645792,
+  "xe": 1.4293742147149722,
+  "p1": 0.2731784346805741,
+  "pn": 0.2705959351783229,
+  "p2": 0.4562256301411029,
+  "m1": null,
+  "mn": null,
+  "m2": null,
+  "pari": null,
+  "cote": null,
+  "vp": "Pas de cote",
+  "w": 0
  }
 ]
