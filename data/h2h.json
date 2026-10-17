@@ -5942,5 +5942,61 @@
   "ext": "Palmeiras",
   "bd": 1,
   "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Le Mans",
+  "ext": "Toulouse",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Frosinone",
+  "ext": "Sassuolo",
+  "bd": 4,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Eintracht Francfort",
+  "ext": "Cologne",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Heerenveen",
+  "ext": "Excelsior",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Burnley",
+  "ext": "Wolverhampton",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Mirassol",
+  "ext": "Internacional",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Copa Libertadores",
+  "dom": "Estudiantes LP",
+  "ext": "Flamengo",
+  "bd": 0,
+  "be": 0
  }
 ]

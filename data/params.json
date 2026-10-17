@@ -8,7 +8,7 @@
  "poids_h2h": 0.08,
  "poids_forme": 0.25,
  "divergence_max": 1.25,
- "correctif_buts": 0.9924,
+ "correctif_buts": 0.9756,
  "poids_marche": 0.5,
  "proba_min_selection": 0.7,
  "edge_min_selection": 0.02,
@@ -146,6 +146,12 @@
    "date": "2026-10-16",
    "n": 360,
    "correctif_buts": 0.9924,
+   "avantage_terrain": 1.25
+  },
+  {
+   "date": "2026-10-17",
+   "n": 367,
+   "correctif_buts": 0.9756,
    "avantage_terrain": 1.25
   }
  ]
