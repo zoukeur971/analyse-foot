@@ -6318,5 +6318,229 @@
   "ext": "Vasco da Gama",
   "bd": 1,
   "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Angers",
+  "ext": "Marseille",
+  "bd": 2,
+  "be": 5
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lorient",
+  "ext": "Monaco",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Paris FC",
+  "ext": "Rennes",
+  "bd": 4,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Le Havre",
+  "ext": "Auxerre",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lyon",
+  "ext": "Nice",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Bournemouth",
+  "ext": "Sunderland",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Leeds",
+  "ext": "Manchester United",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Brighton",
+  "ext": "Crystal Palace",
+  "bd": 5,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Nottingham Forest",
+  "ext": "Arsenal",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Osasuna",
+  "ext": "Racing Santander",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Celta Vigo",
+  "ext": "Alaves",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Malaga",
+  "ext": "Real Sociedad",
+  "bd": 2,
+  "be": 5
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Real Madrid",
+  "ext": "Seville",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Udinese",
+  "ext": "Lecce",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Fiorentina",
+  "ext": "Como",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Milan",
+  "ext": "Atalanta",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Juventus",
+  "ext": "Lazio",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Leverkusen",
+  "ext": "Fribourg",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Monchengladbach",
+  "ext": "Hoffenheim",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Zwolle",
+  "ext": "Go Ahead",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Cambuur",
+  "ext": "AZ",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Groningen",
+  "ext": "Ajax",
+  "bd": 2,
+  "be": 5
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Twente",
+  "ext": "Utrecht",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "NEC",
+  "ext": "Sittard",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Fluminense",
+  "ext": "Santos",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Grêmio",
+  "ext": "Cruzeiro",
+  "bd": 2,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Bahia",
+  "ext": "Flamengo",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Clube do Remo",
+  "ext": "Bragantino",
+  "bd": 1,
+  "be": 1
  }
 ]
