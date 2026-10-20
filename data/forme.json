@@ -114,9 +114,9 @@
   "ligue": "Premier League"
  },
  "Coventry": {
-  "mp": 6,
-  "gf": 5,
-  "ga": 11,
+  "mp": 7,
+  "gf": 6,
+  "ga": 14,
   "ligue": "Premier League"
  },
  "Hull City": {
@@ -174,9 +174,9 @@
   "ligue": "Premier League"
  },
  "Tottenham": {
-  "mp": 6,
-  "gf": 3,
-  "ga": 9,
+  "mp": 7,
+  "gf": 6,
+  "ga": 10,
   "ligue": "Premier League"
  },
  "Manchester City": {
@@ -234,9 +234,9 @@
   "ligue": "Liga"
  },
  "Getafe": {
-  "mp": 8,
-  "gf": 4,
-  "ga": 10,
+  "mp": 9,
+  "gf": 5,
+  "ga": 11,
   "ligue": "Liga"
  },
  "Seville": {
@@ -246,9 +246,9 @@
   "ligue": "Liga"
  },
  "Rayo Vallecano": {
-  "mp": 7,
-  "gf": 11,
-  "ga": 16,
+  "mp": 8,
+  "gf": 12,
+  "ga": 17,
   "ligue": "Liga"
  },
  "Racing Santander": {
@@ -366,8 +366,8 @@
   "ligue": "Serie A"
  },
  "Monza": {
-  "mp": 6,
-  "gf": 9,
+  "mp": 7,
+  "gf": 13,
   "ga": 15,
   "ligue": "Serie A"
  },
@@ -384,15 +384,15 @@
   "ligue": "Serie A"
  },
  "Parme": {
-  "mp": 6,
+  "mp": 7,
   "gf": 4,
-  "ga": 10,
+  "ga": 13,
   "ligue": "Serie A"
  },
  "Cagliari": {
-  "mp": 6,
+  "mp": 7,
   "gf": 6,
-  "ga": 3,
+  "ga": 7,
   "ligue": "Serie A"
  },
  "Frosinone": {
@@ -432,8 +432,8 @@
   "ligue": "Serie A"
  },
  "Torino": {
-  "mp": 6,
-  "gf": 7,
+  "mp": 7,
+  "gf": 10,
   "ga": 9,
   "ligue": "Serie A"
  },
@@ -708,9 +708,9 @@
   "ligue": "Primeira Liga"
  },
  "Vitória": {
-  "mp": 38,
-  "gf": 38,
-  "ga": 54,
+  "mp": 39,
+  "gf": 39,
+  "ga": 55,
   "ligue": "Primeira Liga"
  },
  "Arouca": {
@@ -750,15 +750,15 @@
   "ligue": "Primeira Liga"
  },
  "Braga": {
-  "mp": 7,
-  "gf": 8,
-  "ga": 8,
+  "mp": 8,
+  "gf": 9,
+  "ga": 10,
   "ligue": "Primeira Liga"
  },
  "Gil Vicente": {
-  "mp": 7,
-  "gf": 6,
-  "ga": 5,
+  "mp": 8,
+  "gf": 8,
+  "ga": 6,
   "ligue": "Primeira Liga"
  },
  "Rio Ave": {
@@ -1002,9 +1002,9 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 40,
-  "gf": 41,
-  "ga": 44,
+  "mp": 41,
+  "gf": 42,
+  "ga": 45,
   "ligue": "Brasileirao"
  },
  "Bahia": {

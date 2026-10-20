@@ -1,5 +1,5 @@
 {
- "avantage_terrain": 1.2354,
+ "avantage_terrain": 1.2201,
  "rho": -0.02,
  "kelly": 0.25,
  "bankroll": 50,
@@ -8,7 +8,7 @@
  "poids_h2h": 0.08,
  "poids_forme": 0.25,
  "divergence_max": 1.25,
- "correctif_buts": 0.9473,
+ "correctif_buts": 0.9479,
  "poids_marche": 0.5,
  "proba_min_selection": 0.7,
  "edge_min_selection": 0.02,
@@ -165,6 +165,12 @@
    "n": 435,
    "correctif_buts": 0.9473,
    "avantage_terrain": 1.2354
+  },
+  {
+   "date": "2026-10-20",
+   "n": 441,
+   "correctif_buts": 0.9479,
+   "avantage_terrain": 1.2201
   }
  ]
 }

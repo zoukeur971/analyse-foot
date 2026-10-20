@@ -6542,5 +6542,53 @@
   "ext": "Bragantino",
   "bd": 1,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Tottenham",
+  "ext": "Coventry",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Getafe",
+  "ext": "Rayo Vallecano",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Monza",
+  "ext": "Cagliari",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Parme",
+  "ext": "Torino",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Braga",
+  "ext": "Gil Vicente",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Corinthians",
+  "ext": "Vitória",
+  "bd": 1,
+  "be": 1
  }
 ]
