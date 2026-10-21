@@ -792,9 +792,9 @@
   "ligue": "Primeira Liga"
  },
  "Wolverhampton": {
-  "mp": 10,
-  "gf": 18,
-  "ga": 15,
+  "mp": 11,
+  "gf": 19,
+  "ga": 16,
   "ligue": "Championship"
  },
  "Blackburn": {
@@ -876,9 +876,9 @@
   "ligue": "Championship"
  },
  "Portsmouth": {
-  "mp": 10,
-  "gf": 13,
-  "ga": 13,
+  "mp": 11,
+  "gf": 14,
+  "ga": 14,
   "ligue": "Championship"
  },
  "QPR": {
@@ -1098,8 +1098,8 @@
   "ligue": "Copa Libertadores"
  },
  "Independiente": {
-  "mp": 18,
-  "gf": 26,
+  "mp": 19,
+  "gf": 27,
   "ga": 21,
   "ligue": "Copa Libertadores"
  },
@@ -1134,9 +1134,9 @@
   "ligue": "Copa Libertadores"
  },
  "Tolima": {
-  "mp": 11,
+  "mp": 12,
   "gf": 14,
-  "ga": 11,
+  "ga": 12,
   "ligue": "Copa Libertadores"
  },
  "Rivadavia": {
