@@ -6670,5 +6670,85 @@
   "ext": "Barcelone",
   "bd": 4,
   "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Levante",
+  "ext": "Athletic Bilbao",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Como",
+  "ext": "Manchester United",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Lille",
+  "ext": "Galatasaray",
+  "bd": 2,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Real Madrid",
+  "ext": "RB Leipzig",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Inter",
+  "ext": "Shaktar",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Bayern Munich",
+  "ext": "Arsenal",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Club Brugge",
+  "ext": "Lens",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Aston Villa",
+  "ext": "Viking",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Sporting CP",
+  "ext": "LASK",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Real Betis",
+  "ext": "Feyenoord",
+  "bd": 1,
+  "be": 0
  }
 ]

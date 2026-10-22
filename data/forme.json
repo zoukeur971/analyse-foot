@@ -270,9 +270,9 @@
   "ligue": "Liga"
  },
  "Levante": {
-  "mp": 8,
-  "gf": 12,
-  "ga": 16,
+  "mp": 9,
+  "gf": 15,
+  "ga": 17,
   "ligue": "Liga"
  },
  "Deportivo La Corogne": {
@@ -312,9 +312,9 @@
   "ligue": "Liga"
  },
  "Athletic Bilbao": {
-  "mp": 7,
-  "gf": 7,
-  "ga": 6,
+  "mp": 8,
+  "gf": 8,
+  "ga": 9,
   "ligue": "Liga"
  },
  "Valence": {
