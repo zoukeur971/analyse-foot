@@ -6838,5 +6838,221 @@
   "ext": "Estudiantes LP",
   "bd": 2,
   "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lens",
+  "ext": "Paris FC",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Aston Villa",
+  "ext": "Manchester City",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Arsenal",
+  "ext": "Everton",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Coventry",
+  "ext": "Fulham",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Chelsea",
+  "ext": "Tottenham",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Rayo Vallecano",
+  "ext": "Elche",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Racing Santander",
+  "ext": "Espanyol",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Valence",
+  "ext": "Villarreal",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Atletico Madrid",
+  "ext": "Deportivo La Corogne",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Cagliari",
+  "ext": "Bologne",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Como",
+  "ext": "Sassuolo",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Naples",
+  "ext": "Roma",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Lazio",
+  "ext": "Parme",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Mayence",
+  "ext": "Werder Breme",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Cologne",
+  "ext": "Schalke 04",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "RB Leipzig",
+  "ext": "Elversberg",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Paderborn",
+  "ext": "Hambourg",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Augsbourg",
+  "ext": "Union Berlin",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Borussia Dortmund",
+  "ext": "Eintracht Francfort",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Utrecht",
+  "ext": "Zwolle",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Willem II",
+  "ext": "Cambuur",
+  "bd": 1,
+  "be": 6
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Den Haag",
+  "ext": "Heerenveen",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Internacional",
+  "ext": "Botafogo",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Mirassol",
+  "ext": "São Paulo",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Vitória",
+  "ext": "Paranaense",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Palmeiras",
+  "ext": "Bragantino",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Vasco da Gama",
+  "ext": "Corinthians",
+  "bd": 3,
+  "be": 2
  }
 ]
