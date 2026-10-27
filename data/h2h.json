@@ -7390,5 +7390,85 @@
   "ext": "Bahia",
   "bd": 1,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Paris Saint-Germain",
+  "ext": "Lyon",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Seville",
+  "ext": "Osasuna",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Sittard",
+  "ext": "Excelsior",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "NEC",
+  "ext": "Groningen",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "PSV",
+  "ext": "Feyenoord",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Sparta",
+  "ext": "Ajax",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "AZ",
+  "ext": "Twente",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Santa Clara",
+  "ext": "SL Benfica",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Coritiba",
+  "ext": "Grêmio",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Flamengo",
+  "ext": "Mineiro",
+  "bd": 3,
+  "be": 2
  }
 ]

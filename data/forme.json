@@ -66,9 +66,9 @@
   "ligue": "Ligue 1"
  },
  "Lyon": {
-  "mp": 7,
+  "mp": 8,
   "gf": 13,
-  "ga": 5,
+  "ga": 7,
   "ligue": "Ligue 1"
  },
  "Angers": {
@@ -102,8 +102,8 @@
   "ligue": "Ligue 1"
  },
  "Paris Saint-Germain": {
-  "mp": 7,
-  "gf": 14,
+  "mp": 8,
+  "gf": 16,
   "ga": 9,
   "ligue": "Ligue 1"
  },
@@ -240,8 +240,8 @@
   "ligue": "Liga"
  },
  "Seville": {
-  "mp": 9,
-  "gf": 14,
+  "mp": 10,
+  "gf": 16,
   "ga": 16,
   "ligue": "Liga"
  },
@@ -342,9 +342,9 @@
   "ligue": "Liga"
  },
  "Osasuna": {
-  "mp": 9,
+  "mp": 10,
   "gf": 10,
-  "ga": 18,
+  "ga": 20,
   "ligue": "Liga"
  },
  "Udinese": {
@@ -768,9 +768,9 @@
   "ligue": "Primeira Liga"
  },
  "SL Benfica": {
-  "mp": 8,
-  "gf": 24,
-  "ga": 7,
+  "mp": 9,
+  "gf": 26,
+  "ga": 8,
   "ligue": "Primeira Liga"
  },
  "Acad. Viseu": {
@@ -780,9 +780,9 @@
   "ligue": "Primeira Liga"
  },
  "Santa Clara": {
-  "mp": 8,
-  "gf": 12,
-  "ga": 4,
+  "mp": 9,
+  "gf": 13,
+  "ga": 6,
   "ligue": "Primeira Liga"
  },
  "Club Nacional": {
@@ -936,9 +936,9 @@
   "ligue": "Championship"
  },
  "Mineiro": {
-  "mp": 31,
-  "gf": 42,
-  "ga": 35,
+  "mp": 32,
+  "gf": 44,
+  "ga": 38,
   "ligue": "Brasileirao"
  },
  "Palmeiras": {
@@ -948,9 +948,9 @@
   "ligue": "Brasileirao"
  },
  "Coritiba": {
-  "mp": 31,
+  "mp": 32,
   "gf": 38,
-  "ga": 49,
+  "ga": 50,
   "ligue": "Brasileirao"
  },
  "Bragantino": {
@@ -984,8 +984,8 @@
   "ligue": "Brasileirao"
  },
  "Grêmio": {
-  "mp": 31,
-  "gf": 34,
+  "mp": 32,
+  "gf": 35,
   "ga": 44,
   "ligue": "Brasileirao"
  },
@@ -1020,9 +1020,9 @@
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 42,
-  "gf": 80,
-  "ga": 33,
+  "mp": 43,
+  "gf": 83,
+  "ga": 35,
   "ligue": "Brasileirao"
  },
  "Mirassol": {
