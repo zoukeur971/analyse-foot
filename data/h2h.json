@@ -7470,5 +7470,29 @@
   "ext": "Mineiro",
   "bd": 3,
   "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Sassuolo",
+  "ext": "Lazio",
+  "bd": 2,
+  "be": 6
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Roma",
+  "ext": "Cagliari",
+  "bd": 4,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Torino",
+  "ext": "Como",
+  "bd": 1,
+  "be": 3
  }
 ]
