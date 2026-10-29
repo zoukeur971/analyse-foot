@@ -7494,5 +7494,85 @@
   "ext": "Como",
   "bd": 1,
   "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Milan",
+  "ext": "Bologne",
+  "bd": 2,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Venise",
+  "ext": "Inter",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Parme",
+  "ext": "Udinese",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Genoa",
+  "ext": "Juventus",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Monza",
+  "ext": "Naples",
+  "bd": 1,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Bragantino",
+  "ext": "Chapecoense",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Fluminense",
+  "ext": "Internacional",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Santos",
+  "ext": "Palmeiras",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Bahia",
+  "ext": "São Paulo",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Clube do Remo",
+  "ext": "Botafogo",
+  "bd": 2,
+  "be": 1
  }
 ]
