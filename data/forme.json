@@ -396,9 +396,9 @@
   "ligue": "Serie A"
  },
  "Frosinone": {
-  "mp": 8,
-  "gf": 17,
-  "ga": 13,
+  "mp": 9,
+  "gf": 22,
+  "ga": 14,
   "ligue": "Serie A"
  },
  "Juventus": {
@@ -414,15 +414,15 @@
   "ligue": "Serie A"
  },
  "Lecce": {
-  "mp": 8,
-  "gf": 9,
-  "ga": 14,
+  "mp": 9,
+  "gf": 10,
+  "ga": 19,
   "ligue": "Serie A"
  },
  "Atalanta": {
-  "mp": 8,
-  "gf": 14,
-  "ga": 15,
+  "mp": 9,
+  "gf": 16,
+  "ga": 17,
   "ligue": "Serie A"
  },
  "Sassuolo": {
@@ -462,9 +462,9 @@
   "ligue": "Serie A"
  },
  "Fiorentina": {
-  "mp": 8,
-  "gf": 9,
-  "ga": 19,
+  "mp": 9,
+  "gf": 11,
+  "ga": 21,
   "ligue": "Serie A"
  },
  "Bayern Munich": {
@@ -936,9 +936,9 @@
   "ligue": "Championship"
  },
  "Mineiro": {
-  "mp": 32,
+  "mp": 33,
   "gf": 44,
-  "ga": 38,
+  "ga": 39,
   "ligue": "Brasileirao"
  },
  "Palmeiras": {
@@ -966,9 +966,9 @@
   "ligue": "Brasileirao"
  },
  "Paranaense": {
-  "mp": 32,
+  "mp": 33,
   "gf": 50,
-  "ga": 38,
+  "ga": 40,
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
@@ -984,8 +984,8 @@
   "ligue": "Brasileirao"
  },
  "Grêmio": {
-  "mp": 32,
-  "gf": 35,
+  "mp": 33,
+  "gf": 37,
   "ga": 44,
   "ligue": "Brasileirao"
  },
@@ -1020,9 +1020,9 @@
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 43,
-  "gf": 83,
-  "ga": 35,
+  "mp": 44,
+  "gf": 87,
+  "ga": 36,
   "ligue": "Brasileirao"
  },
  "Mirassol": {
@@ -1032,9 +1032,9 @@
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
-  "mp": 31,
-  "gf": 39,
-  "ga": 45,
+  "mp": 32,
+  "gf": 40,
+  "ga": 49,
   "ligue": "Brasileirao"
  },
  "Botafogo": {
@@ -1044,8 +1044,8 @@
   "ligue": "Brasileirao"
  },
  "Cruzeiro": {
-  "mp": 40,
-  "gf": 61,
+  "mp": 41,
+  "gf": 62,
   "ga": 52,
   "ligue": "Brasileirao"
  },
