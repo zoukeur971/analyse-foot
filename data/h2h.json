@@ -7614,5 +7614,61 @@
   "ext": "Paranaense",
   "bd": 2,
   "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Le Havre",
+  "ext": "Paris Saint-Germain",
+  "bd": 1,
+  "be": 5
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Nice",
+  "ext": "Rennes",
+  "bd": 5,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Lille",
+  "ext": "Lens",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Villarreal",
+  "ext": "Espanyol",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Elversberg",
+  "ext": "Mayence",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Casa Pia",
+  "ext": "Sporting CP",
+  "bd": 0,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Corinthians",
+  "ext": "Mirassol",
+  "bd": 2,
+  "be": 0
  }
 ]

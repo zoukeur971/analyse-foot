@@ -12,9 +12,9 @@
   "ligue": "Ligue 1"
  },
  "Lens": {
-  "mp": 8,
+  "mp": 9,
   "gf": 16,
-  "ga": 12,
+  "ga": 13,
   "ligue": "Ligue 1"
  },
  "Auxerre": {
@@ -48,9 +48,9 @@
   "ligue": "Ligue 1"
  },
  "Nice": {
-  "mp": 8,
-  "gf": 8,
-  "ga": 10,
+  "mp": 9,
+  "gf": 13,
+  "ga": 12,
   "ligue": "Ligue 1"
  },
  "Lorient": {
@@ -78,15 +78,15 @@
   "ligue": "Ligue 1"
  },
  "Lille": {
-  "mp": 8,
-  "gf": 11,
+  "mp": 9,
+  "gf": 12,
   "ga": 6,
   "ligue": "Ligue 1"
  },
  "Le Havre": {
-  "mp": 8,
-  "gf": 8,
-  "ga": 15,
+  "mp": 9,
+  "gf": 9,
+  "ga": 20,
   "ligue": "Ligue 1"
  },
  "Monaco": {
@@ -96,15 +96,15 @@
   "ligue": "Ligue 1"
  },
  "Rennes": {
-  "mp": 8,
-  "gf": 18,
-  "ga": 14,
+  "mp": 9,
+  "gf": 20,
+  "ga": 19,
   "ligue": "Ligue 1"
  },
  "Paris Saint-Germain": {
-  "mp": 8,
-  "gf": 16,
-  "ga": 9,
+  "mp": 9,
+  "gf": 21,
+  "ga": 10,
   "ligue": "Ligue 1"
  },
  "Arsenal": {
@@ -258,14 +258,14 @@
   "ligue": "Liga"
  },
  "Villarreal": {
-  "mp": 10,
+  "mp": 11,
   "gf": 15,
-  "ga": 14,
+  "ga": 15,
   "ligue": "Liga"
  },
  "Espanyol": {
-  "mp": 10,
-  "gf": 12,
+  "mp": 11,
+  "gf": 13,
   "ga": 14,
   "ligue": "Liga"
  },
@@ -492,9 +492,9 @@
   "ligue": "Bundesliga"
  },
  "Mayence": {
-  "mp": 7,
-  "gf": 16,
-  "ga": 13,
+  "mp": 8,
+  "gf": 17,
+  "ga": 17,
   "ligue": "Bundesliga"
  },
  "Paderborn": {
@@ -516,9 +516,9 @@
   "ligue": "Bundesliga"
  },
  "Elversberg": {
-  "mp": 7,
-  "gf": 12,
-  "ga": 15,
+  "mp": 8,
+  "gf": 16,
+  "ga": 16,
   "ligue": "Bundesliga"
  },
  "Leverkusen": {
@@ -702,9 +702,9 @@
   "ligue": "Primeira Liga"
  },
  "Casa Pia": {
-  "mp": 9,
+  "mp": 10,
   "gf": 5,
-  "ga": 17,
+  "ga": 19,
   "ligue": "Primeira Liga"
  },
  "Vitória": {
@@ -726,8 +726,8 @@
   "ligue": "Primeira Liga"
  },
  "Sporting CP": {
-  "mp": 9,
-  "gf": 21,
+  "mp": 10,
+  "gf": 23,
   "ga": 11,
   "ligue": "Primeira Liga"
  },
@@ -1002,8 +1002,8 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 42,
-  "gf": 44,
+  "mp": 43,
+  "gf": 46,
   "ga": 48,
   "ligue": "Brasileirao"
  },
@@ -1026,9 +1026,9 @@
   "ligue": "Brasileirao"
  },
  "Mirassol": {
-  "mp": 40,
+  "mp": 41,
   "gf": 49,
-  "ga": 55,
+  "ga": 57,
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
