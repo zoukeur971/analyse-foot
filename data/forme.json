@@ -30,8 +30,8 @@
   "ligue": "Ligue 1"
  },
  "Brest": {
-  "mp": 8,
-  "gf": 14,
+  "mp": 9,
+  "gf": 16,
   "ga": 12,
   "ligue": "Ligue 1"
  },
@@ -54,9 +54,9 @@
   "ligue": "Ligue 1"
  },
  "Lorient": {
-  "mp": 8,
+  "mp": 9,
   "gf": 7,
-  "ga": 6,
+  "ga": 8,
   "ligue": "Ligue 1"
  },
  "Toulouse": {
@@ -156,8 +156,8 @@
   "ligue": "Premier League"
  },
  "Everton": {
-  "mp": 8,
-  "gf": 8,
+  "mp": 9,
+  "gf": 9,
   "ga": 9,
   "ligue": "Premier League"
  },
@@ -204,9 +204,9 @@
   "ligue": "Premier League"
  },
  "Newcastle": {
-  "mp": 8,
+  "mp": 9,
   "gf": 12,
-  "ga": 14,
+  "ga": 15,
   "ligue": "Premier League"
  },
  "Liverpool": {
@@ -276,9 +276,9 @@
   "ligue": "Liga"
  },
  "Deportivo La Corogne": {
-  "mp": 10,
-  "gf": 13,
-  "ga": 13,
+  "mp": 11,
+  "gf": 15,
+  "ga": 14,
   "ligue": "Liga"
  },
  "Elche": {
@@ -342,9 +342,9 @@
   "ligue": "Liga"
  },
  "Osasuna": {
-  "mp": 10,
-  "gf": 10,
-  "ga": 20,
+  "mp": 11,
+  "gf": 11,
+  "ga": 22,
   "ligue": "Liga"
  },
  "Udinese": {
@@ -384,8 +384,8 @@
   "ligue": "Serie A"
  },
  "Parme": {
-  "mp": 9,
-  "gf": 5,
+  "mp": 10,
+  "gf": 8,
   "ga": 15,
   "ligue": "Serie A"
  },
@@ -420,15 +420,15 @@
   "ligue": "Serie A"
  },
  "Atalanta": {
-  "mp": 9,
+  "mp": 10,
   "gf": 16,
-  "ga": 17,
+  "ga": 20,
   "ligue": "Serie A"
  },
  "Sassuolo": {
-  "mp": 9,
-  "gf": 14,
-  "ga": 22,
+  "mp": 10,
+  "gf": 16,
+  "ga": 26,
   "ligue": "Serie A"
  },
  "Torino": {
@@ -462,9 +462,9 @@
   "ligue": "Serie A"
  },
  "Fiorentina": {
-  "mp": 9,
-  "gf": 11,
-  "ga": 21,
+  "mp": 10,
+  "gf": 15,
+  "ga": 23,
   "ligue": "Serie A"
  },
  "Bayern Munich": {
@@ -708,7 +708,7 @@
   "ligue": "Primeira Liga"
  },
  "Vitória": {
-  "mp": 42,
+  "mp": 43,
   "gf": 45,
   "ga": 58,
   "ligue": "Primeira Liga"
@@ -738,9 +738,9 @@
   "ligue": "Primeira Liga"
  },
  "Alverca": {
-  "mp": 9,
+  "mp": 10,
   "gf": 13,
-  "ga": 13,
+  "ga": 14,
   "ligue": "Primeira Liga"
  },
  "Moreirense": {
@@ -756,7 +756,7 @@
   "ligue": "Primeira Liga"
  },
  "Gil Vicente": {
-  "mp": 9,
+  "mp": 10,
   "gf": 8,
   "ga": 7,
   "ligue": "Primeira Liga"
@@ -768,8 +768,8 @@
   "ligue": "Primeira Liga"
  },
  "SL Benfica": {
-  "mp": 9,
-  "gf": 26,
+  "mp": 10,
+  "gf": 27,
   "ga": 8,
   "ligue": "Primeira Liga"
  },
@@ -954,9 +954,9 @@
   "ligue": "Brasileirao"
  },
  "Bragantino": {
-  "mp": 33,
-  "gf": 42,
-  "ga": 38,
+  "mp": 34,
+  "gf": 44,
+  "ga": 39,
   "ligue": "Brasileirao"
  },
  "Internacional": {
@@ -996,9 +996,9 @@
   "ligue": "Brasileirao"
  },
  "Santos": {
-  "mp": 33,
-  "gf": 49,
-  "ga": 47,
+  "mp": 34,
+  "gf": 50,
+  "ga": 49,
   "ligue": "Brasileirao"
  },
  "Corinthians": {
