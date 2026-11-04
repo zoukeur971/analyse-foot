@@ -798,33 +798,33 @@
   "ligue": "Championship"
  },
  "Blackburn": {
-  "mp": 13,
-  "gf": 19,
-  "ga": 20,
+  "mp": 14,
+  "gf": 20,
+  "ga": 22,
   "ligue": "Championship"
  },
  "Bolton": {
-  "mp": 13,
-  "gf": 18,
+  "mp": 14,
+  "gf": 19,
   "ga": 26,
   "ligue": "Championship"
  },
  "Preston NE": {
-  "mp": 13,
-  "gf": 10,
-  "ga": 27,
+  "mp": 14,
+  "gf": 12,
+  "ga": 30,
   "ligue": "Championship"
  },
  "Norwich": {
-  "mp": 13,
-  "gf": 23,
+  "mp": 14,
+  "gf": 27,
   "ga": 24,
   "ligue": "Championship"
  },
  "West Brom": {
-  "mp": 13,
-  "gf": 19,
-  "ga": 14,
+  "mp": 14,
+  "gf": 20,
+  "ga": 15,
   "ligue": "Championship"
  },
  "Bristol City": {
@@ -834,9 +834,9 @@
   "ligue": "Championship"
  },
  "Millwall": {
-  "mp": 13,
+  "mp": 14,
   "gf": 23,
-  "ga": 21,
+  "ga": 24,
   "ligue": "Championship"
  },
  "Middlesbrough": {
@@ -846,75 +846,75 @@
   "ligue": "Championship"
  },
  "Lincoln City": {
-  "mp": 13,
+  "mp": 14,
   "gf": 14,
-  "ga": 23,
+  "ga": 24,
   "ligue": "Championship"
  },
  "Stoke": {
-  "mp": 13,
-  "gf": 20,
-  "ga": 16,
+  "mp": 14,
+  "gf": 22,
+  "ga": 17,
   "ligue": "Championship"
  },
  "Swansea": {
-  "mp": 13,
-  "gf": 20,
-  "ga": 13,
-  "ligue": "Championship"
- },
- "Charlton": {
-  "mp": 13,
-  "gf": 11,
-  "ga": 21,
-  "ligue": "Championship"
- },
- "Derby County": {
-  "mp": 13,
-  "gf": 11,
-  "ga": 25,
-  "ligue": "Championship"
- },
- "Portsmouth": {
-  "mp": 13,
-  "gf": 16,
-  "ga": 15,
-  "ligue": "Championship"
- },
- "QPR": {
-  "mp": 13,
+  "mp": 14,
   "gf": 21,
   "ga": 16,
   "ligue": "Championship"
  },
+ "Charlton": {
+  "mp": 14,
+  "gf": 11,
+  "ga": 22,
+  "ligue": "Championship"
+ },
+ "Derby County": {
+  "mp": 14,
+  "gf": 11,
+  "ga": 29,
+  "ligue": "Championship"
+ },
+ "Portsmouth": {
+  "mp": 14,
+  "gf": 19,
+  "ga": 16,
+  "ligue": "Championship"
+ },
+ "QPR": {
+  "mp": 14,
+  "gf": 22,
+  "ga": 17,
+  "ligue": "Championship"
+ },
  "Sheffield Utd": {
-  "mp": 13,
-  "gf": 17,
-  "ga": 15,
+  "mp": 14,
+  "gf": 20,
+  "ga": 17,
   "ligue": "Championship"
  },
  "Birmingham": {
-  "mp": 13,
-  "gf": 23,
+  "mp": 14,
+  "gf": 26,
   "ga": 13,
   "ligue": "Championship"
  },
  "Watford": {
-  "mp": 13,
-  "gf": 12,
+  "mp": 14,
+  "gf": 13,
   "ga": 23,
   "ligue": "Championship"
  },
  "Southampton": {
-  "mp": 13,
-  "gf": 28,
-  "ga": 13,
+  "mp": 14,
+  "gf": 29,
+  "ga": 14,
   "ligue": "Championship"
  },
  "Burnley": {
-  "mp": 13,
-  "gf": 17,
-  "ga": 25,
+  "mp": 14,
+  "gf": 18,
+  "ga": 26,
   "ligue": "Championship"
  },
  "West Ham": {
@@ -948,9 +948,9 @@
   "ligue": "Brasileirao"
  },
  "Coritiba": {
-  "mp": 33,
+  "mp": 34,
   "gf": 40,
-  "ga": 50,
+  "ga": 51,
   "ligue": "Brasileirao"
  },
  "Bragantino": {
@@ -960,8 +960,8 @@
   "ligue": "Brasileirao"
  },
  "Internacional": {
-  "mp": 33,
-  "gf": 37,
+  "mp": 34,
+  "gf": 38,
   "ga": 42,
   "ligue": "Brasileirao"
  },
@@ -990,9 +990,9 @@
   "ligue": "Brasileirao"
  },
  "Chapecoense": {
-  "mp": 32,
-  "gf": 32,
-  "ga": 66,
+  "mp": 33,
+  "gf": 33,
+  "ga": 68,
   "ligue": "Brasileirao"
  },
  "Santos": {
@@ -1026,9 +1026,9 @@
   "ligue": "Brasileirao"
  },
  "Mirassol": {
-  "mp": 41,
-  "gf": 49,
-  "ga": 57,
+  "mp": 42,
+  "gf": 51,
+  "ga": 58,
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
