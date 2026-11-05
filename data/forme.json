@@ -792,9 +792,9 @@
   "ligue": "Primeira Liga"
  },
  "Wolverhampton": {
-  "mp": 13,
-  "gf": 23,
-  "ga": 16,
+  "mp": 14,
+  "gf": 25,
+  "ga": 17,
   "ligue": "Championship"
  },
  "Blackburn": {
@@ -828,9 +828,9 @@
   "ligue": "Championship"
  },
  "Bristol City": {
-  "mp": 13,
-  "gf": 15,
-  "ga": 17,
+  "mp": 14,
+  "gf": 16,
+  "ga": 19,
   "ligue": "Championship"
  },
  "Millwall": {
@@ -840,9 +840,9 @@
   "ligue": "Championship"
  },
  "Middlesbrough": {
-  "mp": 13,
+  "mp": 14,
   "gf": 30,
-  "ga": 17,
+  "ga": 19,
   "ligue": "Championship"
  },
  "Lincoln City": {
@@ -918,27 +918,27 @@
   "ligue": "Championship"
  },
  "West Ham": {
-  "mp": 13,
-  "gf": 33,
-  "ga": 18,
+  "mp": 14,
+  "gf": 36,
+  "ga": 21,
   "ligue": "Championship"
  },
  "Cardiff": {
-  "mp": 13,
-  "gf": 19,
-  "ga": 20,
+  "mp": 14,
+  "gf": 22,
+  "ga": 23,
   "ligue": "Championship"
  },
  "Wrexham": {
-  "mp": 13,
-  "gf": 15,
+  "mp": 14,
+  "gf": 17,
   "ga": 19,
   "ligue": "Championship"
  },
  "Mineiro": {
-  "mp": 33,
+  "mp": 34,
   "gf": 44,
-  "ga": 39,
+  "ga": 40,
   "ligue": "Brasileirao"
  },
  "Palmeiras": {
@@ -966,9 +966,9 @@
   "ligue": "Brasileirao"
  },
  "Paranaense": {
-  "mp": 33,
-  "gf": 50,
-  "ga": 40,
+  "mp": 34,
+  "gf": 51,
+  "ga": 43,
   "ligue": "Brasileirao"
  },
  "Clube do Remo": {
@@ -984,9 +984,9 @@
   "ligue": "Brasileirao"
  },
  "Grêmio": {
-  "mp": 33,
-  "gf": 37,
-  "ga": 44,
+  "mp": 34,
+  "gf": 38,
+  "ga": 47,
   "ligue": "Brasileirao"
  },
  "Chapecoense": {
@@ -1002,7 +1002,7 @@
   "ligue": "Brasileirao"
  },
  "Corinthians": {
-  "mp": 43,
+  "mp": 44,
   "gf": 46,
   "ga": 48,
   "ligue": "Brasileirao"
@@ -1014,15 +1014,15 @@
   "ligue": "Brasileirao"
  },
  "São Paulo": {
-  "mp": 33,
+  "mp": 34,
   "gf": 39,
   "ga": 39,
   "ligue": "Brasileirao"
  },
  "Flamengo": {
-  "mp": 44,
-  "gf": 87,
-  "ga": 36,
+  "mp": 45,
+  "gf": 90,
+  "ga": 37,
   "ligue": "Brasileirao"
  },
  "Mirassol": {
@@ -1032,14 +1032,14 @@
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
-  "mp": 32,
-  "gf": 40,
-  "ga": 49,
+  "mp": 33,
+  "gf": 43,
+  "ga": 50,
   "ligue": "Brasileirao"
  },
  "Botafogo": {
-  "mp": 37,
-  "gf": 48,
+  "mp": 38,
+  "gf": 49,
   "ga": 56,
   "ligue": "Brasileirao"
  },

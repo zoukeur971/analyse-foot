@@ -8422,5 +8422,117 @@
   "ext": "Sl. Bratislava",
   "bd": 4,
   "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Cardiff",
+  "ext": "West Ham",
+  "bd": 3,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Wrexham",
+  "ext": "Middlesbrough",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Bristol City",
+  "ext": "Wolverhampton",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Paranaense",
+  "ext": "Vasco da Gama",
+  "bd": 1,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Flamengo",
+  "ext": "Grêmio",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "PAE AEK",
+  "ext": "Real Madrid",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Fenerbahçe",
+  "ext": "Liverpool",
+  "bd": 3,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "RB Leipzig",
+  "ext": "Manchester City",
+  "bd": 2,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Slavia Praha",
+  "ext": "Arsenal",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "PSV",
+  "ext": "Club Brugge",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Borussia Dortmund",
+  "ext": "Real Betis",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Porto",
+  "ext": "Naples",
+  "bd": 4,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Lens",
+  "ext": "Como",
+  "bd": 1,
+  "be": 9
+ },
+ {
+  "saison": "",
+  "comp": "Ligue des Champions",
+  "dom": "Viking",
+  "ext": "Sabah FK",
+  "bd": 4,
+  "be": 1
  }
 ]
