@@ -8534,5 +8534,37 @@
   "ext": "Sabah FK",
   "bd": 4,
   "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Botafogo",
+  "ext": "Mineiro",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "São Paulo",
+  "ext": "Corinthians",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Palmeiras",
+  "ext": "Clube do Remo",
+  "bd": 6,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Cruzeiro",
+  "ext": "Bahia",
+  "bd": 3,
+  "be": 2
  }
 ]
