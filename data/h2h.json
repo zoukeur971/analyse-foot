@@ -8638,5 +8638,285 @@
   "ext": "Fluminense",
   "bd": 0,
   "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Auxerre",
+  "ext": "Paris FC",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Ligue 1",
+  "dom": "Paris Saint-Germain",
+  "ext": "Troyes",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Leeds",
+  "ext": "Tottenham",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Arsenal",
+  "ext": "Hull City",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Fulham",
+  "ext": "Newcastle",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Premier League",
+  "dom": "Nottingham Forest",
+  "ext": "Manchester City",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Malaga",
+  "ext": "Racing Santander",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Espanyol",
+  "ext": "Deportivo La Corogne",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Osasuna",
+  "ext": "Athletic Bilbao",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Liga",
+  "dom": "Valence",
+  "ext": "Real Madrid",
+  "bd": 0,
+  "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Torino",
+  "ext": "Lecce",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Cagliari",
+  "ext": "Frosinone",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Parme",
+  "ext": "Bologne",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Serie A",
+  "dom": "Roma",
+  "ext": "Sassuolo",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "RB Leipzig",
+  "ext": "Augsbourg",
+  "bd": 5,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Borussia Dortmund",
+  "ext": "Elversberg",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Mayence",
+  "ext": "Bayern Munich",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Paderborn",
+  "ext": "Eintracht Francfort",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Bundesliga",
+  "dom": "Stuttgart",
+  "ext": "Werder Breme",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Sittard",
+  "ext": "Telstar",
+  "bd": 2,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Den Haag",
+  "ext": "Sparta",
+  "bd": 3,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Eredivisie",
+  "dom": "Excelsior",
+  "ext": "Go Ahead",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Alverca",
+  "ext": "Casa Pia",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Primeira Liga",
+  "dom": "Sporting CP",
+  "ext": "Moreirense",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Wrexham",
+  "ext": "Wolverhampton",
+  "bd": 1,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Portsmouth",
+  "ext": "Stoke",
+  "bd": 1,
+  "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Bristol City",
+  "ext": "Norwich",
+  "bd": 0,
+  "be": 5
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "QPR",
+  "ext": "Lincoln City",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Cardiff",
+  "ext": "Burnley",
+  "bd": 5,
+  "be": 4
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Charlton",
+  "ext": "Sheffield Utd",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Watford",
+  "ext": "Middlesbrough",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Blackburn",
+  "ext": "West Ham",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "West Brom",
+  "ext": "Millwall",
+  "bd": 3,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Preston NE",
+  "ext": "Southampton",
+  "bd": 1,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Championship",
+  "dom": "Birmingham",
+  "ext": "Swansea",
+  "bd": 2,
+  "be": 1
  }
 ]
