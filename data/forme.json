@@ -791,150 +791,6 @@
   "ga": 28,
   "ligue": "Primeira Liga"
  },
- "Wolverhampton": {
-  "mp": 15,
-  "gf": 26,
-  "ga": 18,
-  "ligue": "Championship"
- },
- "Blackburn": {
-  "mp": 15,
-  "gf": 22,
-  "ga": 23,
-  "ligue": "Championship"
- },
- "Bolton": {
-  "mp": 15,
-  "gf": 20,
-  "ga": 29,
-  "ligue": "Championship"
- },
- "Preston NE": {
-  "mp": 15,
-  "gf": 13,
-  "ga": 30,
-  "ligue": "Championship"
- },
- "Norwich": {
-  "mp": 15,
-  "gf": 32,
-  "ga": 24,
-  "ligue": "Championship"
- },
- "West Brom": {
-  "mp": 15,
-  "gf": 23,
-  "ga": 15,
-  "ligue": "Championship"
- },
- "Bristol City": {
-  "mp": 15,
-  "gf": 16,
-  "ga": 24,
-  "ligue": "Championship"
- },
- "Millwall": {
-  "mp": 15,
-  "gf": 23,
-  "ga": 27,
-  "ligue": "Championship"
- },
- "Middlesbrough": {
-  "mp": 15,
-  "gf": 30,
-  "ga": 19,
-  "ligue": "Championship"
- },
- "Lincoln City": {
-  "mp": 15,
-  "gf": 15,
-  "ga": 26,
-  "ligue": "Championship"
- },
- "Stoke": {
-  "mp": 15,
-  "gf": 24,
-  "ga": 18,
-  "ligue": "Championship"
- },
- "Swansea": {
-  "mp": 15,
-  "gf": 22,
-  "ga": 18,
-  "ligue": "Championship"
- },
- "Charlton": {
-  "mp": 15,
-  "gf": 13,
-  "ga": 23,
-  "ligue": "Championship"
- },
- "Derby County": {
-  "mp": 15,
-  "gf": 14,
-  "ga": 30,
-  "ligue": "Championship"
- },
- "Portsmouth": {
-  "mp": 15,
-  "gf": 20,
-  "ga": 18,
-  "ligue": "Championship"
- },
- "QPR": {
-  "mp": 15,
-  "gf": 24,
-  "ga": 18,
-  "ligue": "Championship"
- },
- "Sheffield Utd": {
-  "mp": 15,
-  "gf": 21,
-  "ga": 19,
-  "ligue": "Championship"
- },
- "Birmingham": {
-  "mp": 15,
-  "gf": 28,
-  "ga": 14,
-  "ligue": "Championship"
- },
- "Watford": {
-  "mp": 15,
-  "gf": 13,
-  "ga": 23,
-  "ligue": "Championship"
- },
- "Southampton": {
-  "mp": 15,
-  "gf": 29,
-  "ga": 15,
-  "ligue": "Championship"
- },
- "Burnley": {
-  "mp": 15,
-  "gf": 22,
-  "ga": 31,
-  "ligue": "Championship"
- },
- "West Ham": {
-  "mp": 15,
-  "gf": 37,
-  "ga": 23,
-  "ligue": "Championship"
- },
- "Cardiff": {
-  "mp": 15,
-  "gf": 27,
-  "ga": 27,
-  "ligue": "Championship"
- },
- "Wrexham": {
-  "mp": 15,
-  "gf": 18,
-  "ga": 20,
-  "ligue": "Championship"
- },
  "Mineiro": {
   "mp": 34,
   "gf": 44,
@@ -1258,5 +1114,137 @@
   "gf": 4,
   "ga": 8,
   "ligue": "Copa Libertadores"
+ },
+ "Southampton": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Derby County": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Norwich": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Cardiff": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Millwall": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "QPR": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Sheffield Utd": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Watford": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Swansea": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "West Brom": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Middlesbrough": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Bristol City": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Bolton": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Portsmouth": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Stoke": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Birmingham": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Lincoln City": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Wrexham": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "West Ham": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Preston NE": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Wolverhampton": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Charlton": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
  }
 }
