@@ -792,7 +792,7 @@
   "ligue": "Primeira Liga"
  },
  "Mineiro": {
-  "mp": 34,
+  "mp": 35,
   "gf": 44,
   "ga": 40,
   "ligue": "Brasileirao"
@@ -846,9 +846,9 @@
   "ligue": "Brasileirao"
  },
  "Chapecoense": {
-  "mp": 33,
+  "mp": 34,
   "gf": 33,
-  "ga": 68,
+  "ga": 70,
   "ligue": "Brasileirao"
  },
  "Santos": {
@@ -882,14 +882,14 @@
   "ligue": "Brasileirao"
  },
  "Mirassol": {
-  "mp": 42,
+  "mp": 43,
   "gf": 51,
   "ga": 58,
   "ligue": "Brasileirao"
  },
  "Vasco da Gama": {
-  "mp": 33,
-  "gf": 43,
+  "mp": 34,
+  "gf": 45,
   "ga": 50,
   "ligue": "Brasileirao"
  },
@@ -1242,6 +1242,18 @@
   "ligue": "Championship"
  },
  "Charlton": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Burnley": {
+  "mp": 0,
+  "gf": 0,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Blackburn": {
   "mp": 0,
   "gf": 0,
   "ga": 0,

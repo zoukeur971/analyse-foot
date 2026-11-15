@@ -9190,5 +9190,21 @@
   "ext": "SL Benfica",
   "bd": 2,
   "be": 3
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Mirassol",
+  "ext": "Mineiro",
+  "bd": 0,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Chapecoense",
+  "ext": "Vasco da Gama",
+  "bd": 0,
+  "be": 2
  }
 ]
