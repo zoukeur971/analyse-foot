@@ -792,9 +792,9 @@
   "ligue": "Primeira Liga"
  },
  "Norwich": {
-  "mp": 1,
-  "gf": 1,
-  "ga": 2,
+  "mp": 2,
+  "gf": 2,
+  "ga": 4,
   "ligue": "Championship"
  },
  "West Brom": {
@@ -803,15 +803,45 @@
   "ga": 1,
   "ligue": "Championship"
  },
+ "Charlton": {
+  "mp": 1,
+  "gf": 2,
+  "ga": 1,
+  "ligue": "Championship"
+ },
+ "Derby County": {
+  "mp": 2,
+  "gf": 2,
+  "ga": 3,
+  "ligue": "Championship"
+ },
  "Burnley": {
   "mp": 1,
   "gf": 1,
   "ga": 1,
   "ligue": "Championship"
  },
- "Derby County": {
+ "Swansea": {
+  "mp": 2,
+  "gf": 3,
+  "ga": 1,
+  "ligue": "Championship"
+ },
+ "Millwall": {
+  "mp": 1,
+  "gf": 0,
+  "ga": 1,
+  "ligue": "Championship"
+ },
+ "Cardiff": {
   "mp": 1,
   "gf": 1,
+  "ga": 0,
+  "ligue": "Championship"
+ },
+ "Birmingham": {
+  "mp": 1,
+  "gf": 0,
   "ga": 1,
   "ligue": "Championship"
  },
@@ -1145,18 +1175,6 @@
   "ga": 0,
   "ligue": "Championship"
  },
- "Cardiff": {
-  "mp": 0,
-  "gf": 0,
-  "ga": 0,
-  "ligue": "Championship"
- },
- "Millwall": {
-  "mp": 0,
-  "gf": 0,
-  "ga": 0,
-  "ligue": "Championship"
- },
  "QPR": {
   "mp": 0,
   "gf": 0,
@@ -1170,12 +1188,6 @@
   "ligue": "Championship"
  },
  "Watford": {
-  "mp": 0,
-  "gf": 0,
-  "ga": 0,
-  "ligue": "Championship"
- },
- "Swansea": {
   "mp": 0,
   "gf": 0,
   "ga": 0,
@@ -1211,12 +1223,6 @@
   "ga": 0,
   "ligue": "Championship"
  },
- "Birmingham": {
-  "mp": 0,
-  "gf": 0,
-  "ga": 0,
-  "ligue": "Championship"
- },
  "Lincoln City": {
   "mp": 0,
   "gf": 0,
@@ -1242,12 +1248,6 @@
   "ligue": "Championship"
  },
  "Wolverhampton": {
-  "mp": 0,
-  "gf": 0,
-  "ga": 0,
-  "ligue": "Championship"
- },
- "Charlton": {
   "mp": 0,
   "gf": 0,
   "ga": 0,
