@@ -9206,5 +9206,53 @@
   "ext": "Vasco da Gama",
   "bd": 0,
   "be": 2
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Coritiba",
+  "ext": "Santos",
+  "bd": 0,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Clube do Remo",
+  "ext": "Chapecoense",
+  "bd": 2,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Cruzeiro",
+  "ext": "Palmeiras",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Flamengo",
+  "ext": "Paranaense",
+  "bd": 2,
+  "be": 1
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Corinthians",
+  "ext": "Botafogo",
+  "bd": 4,
+  "be": 0
+ },
+ {
+  "saison": "",
+  "comp": "Brasileirao",
+  "dom": "Grêmio",
+  "ext": "Bahia",
+  "bd": 0,
+  "be": 0
  }
 ]
